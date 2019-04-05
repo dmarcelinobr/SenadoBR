@@ -3,7 +3,7 @@
 SenadoBR <img src="inst/doc/SenadoBR-logo.png" width="240px" align="right" />
 =============================================================================
 
-R package for accessing for the Brazilian Senate RESTful API
+R package for accessing the Brazilian Senate RESTful API
 
 Installation
 ------------
