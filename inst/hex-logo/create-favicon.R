@@ -62,6 +62,9 @@ theme_hex <- theme_void() + theme_transparent() +
 img <- readPNG("~/SenadoBR/inst/doc/Senado.png")
 g <- rasterGrob(img, interpolate=TRUE)
 
+flag <- readPNG("~/SenadoBR/inst/doc/bandeira.png")
+b <- rasterGrob(flag, interpolate=TRUE)
+
 plot_sample <- hex_points %>%
   uncount(weights = n) %>%
   sample_n(size = 125)
@@ -74,6 +77,7 @@ ggplot() +
   annotate("text", x = 0, y = 0.66, label= "SenadoBR",
            size = 44, family = "Roboto", fontface="bold") + 
   annotation_custom(g, xmin = -1.05, xmax = 1.05, ymin = -1.15, ymax = 1.0) +
+  annotation_custom(b, xmin = -0.22, xmax = 0.22, ymin = -1.35, ymax = 0.40) +
   coord_equal(xlim = range(hex_poly$x), ylim = range(hex_poly$y)) +
   scale_x_continuous(expand = c(0.04, 0)) +
   scale_y_continuous(expand = c(0.04, 0)) +
@@ -85,14 +89,16 @@ png("~/SenadoBR/inst/doc/SenadoBR-logo.png", width = 905, height = 1050, bg = "t
 print(logo)
 dev.off()
 
+
 ggplot() +
   geom_raster(data = hex_points, aes(x = x, y = y, fill = n),
               show.legend = FALSE) +
   geom_polygon(data = hex_poly, aes(x, y), color = high_color, alpha = 0,
                size =  0.35) +
-  annotate("text", x = 0, y = 0.66, label= "CamaraBR",
+  annotate("text", x = 0, y = 0.66, label= "SenadoBR",
            size = 1.3, family = "Roboto", fontface="bold") + 
   annotation_custom(g, xmin = -1.05, xmax = 1.05, ymin = -1.15, ymax = 1.0) +
+  annotation_custom(b, xmin = -0.22, xmax = 0.22, ymin = -1.35, ymax = 0.40) +
   coord_equal(xlim = range(hex_poly$x), ylim = range(hex_poly$y)) +
   scale_x_continuous(expand = c(0.04, 0)) +
   scale_y_continuous(expand = c(0.04, 0)) +
@@ -109,7 +115,10 @@ ggplot() +
     show.legend = FALSE) +
   geom_polygon(data = hex_poly, aes(x, y), color = high_color, alpha = 0,
     size = 2.12) +
-  annotation_custom(g, xmin = -0.95, xmax = 0.95, ymin = -0.85, ymax = 0.85) +
+  annotate("text", x = 0, y = 0.66, label= "SenadoBR",
+           size = 8, family = "Roboto", fontface="bold") + 
+  annotation_custom(g, xmin = -1.05, xmax = 1.05, ymin = -1.15, ymax = 1.0) +
+  annotation_custom(b, xmin = -0.22, xmax = 0.22, ymin = -1.35, ymax = 0.40) +
   coord_equal(xlim = range(hex_poly$x), ylim = range(hex_poly$y)) +
   scale_x_continuous(expand = c(0.04, 0)) +
   scale_y_continuous(expand = c(0.04, 0)) +
