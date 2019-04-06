@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# SenadoBR <img src="inst/doc/SenadoBR-logo.png" width="240px" align="right" />
+# SenadoBR <img src="inst/figures/SenadoBR-logo.png" width="240px" align="right" />
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![Build
