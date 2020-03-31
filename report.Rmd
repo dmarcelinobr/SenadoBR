@@ -1,0 +1,107 @@
+---
+title: "report"
+author: "Daniel"
+date: "3/31/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r}
+rm(list = ls())
+
+source(here::here("R/codigos.R"))
+
+
+library(tidyverse)
+library(data.table)
+library(progress)
+library(knitr)
+
+
+library(TrackCOVID)
+```
+
+
+# Baixa dados da Câmara
+```{r}
+
+anos <- 2020
+
+lista_camara <- purrr::map_df(anos, ~{
+                           fetchYearlyProposals(.x, "CD")
+                           })
+
+
+ids0 <- fread('data/lista_camara.csv') %>% pull(idProposicao)
+
+
+ids1 <- lista_camara %>% pull(idProposicao)
+
+setdiff(ids0, ids1)
+
+
+fwrite(lista_camara, 'data/lista_camara.csv', row.names = FALSE)
+```
+
+
+# Baixa dados detalhados da Câmara
+```{r}
+barra <- progress_bar$new(total = length(ids1), 
+                          format = "[:bar] :percent eta: :eta")
+
+
+prop_camara <- map_df(ids1, 
+                              ~{ barra$tick()
+                           fetchCamaraProposal(.x)
+                           })
+
+prop_camara_old <- fread('data/prop_camara.csv')
+
+
+novas <- anti_join(prop_camara_old, prop_camara) 
+
+
+knitr::kable(nova)
+
+
+lista_camara <- bind_rows(prop_camara_old, prop_camara)
+
+
+prop_camara <- prop_camara %>% 
+  distinct(idProposicao, nomeProposicao, .keep_all = TRUE)
+
+
+fwrite(prop_camara, 'data/prop_camara.csv', row.names = FALSE)
+```
+
+
+
+
+# Baixa dados do Senado
+```{r}
+
+anos <- 2020
+
+lista_senado <- map_df(anos, ~{
+                           fetchYearlyProposals(.x, "SF")
+                           })
+
+
+ids0 <- fread('data/lista_senado.csv') %>% pull(idProposicao)
+
+
+ids1 <- lista_senado %>% pull(idProposicao)
+
+
+setdiff(ids0, ids1)
+
+
+fwrite(lista_senado, 'data/lista_senado.csv', row.names = FALSE)
+```
+
+

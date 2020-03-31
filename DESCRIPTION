@@ -1,0 +1,20 @@
+Package: TrackCOVID
+Type: Package
+Title: Gest information from the Brazilian Camara and Senate 
+Version: 0.1.0
+Authors@R: c(
+    person("Daniel", "Marcelino", , "dmarcelino@live.com", c("aut", "cre")),
+    person("JOTA", role = c("cph", "fnd"))
+    )
+Description: Retrieve data from the Brazilian Camara and Senate.
+License: LGPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.6.1),
+        httr,
+        lubridate,
+        purrr,
+        stringi,
+        tibble
+Imports: rcongresso (>= 0.5.0)
+RoxygenNote: 7.0.2

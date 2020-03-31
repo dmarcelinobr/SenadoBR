@@ -1,0 +1,876 @@
+idProposicao,uri,dataApresentacao,siglaTipo,codTipo,numero,ano,nomeProposicao,indTramitando
+140799,http://legis.senado.gov.br/dadosabertos/materia/140799,2020-02-19,ATN,,00001,2020,ATN 1/2020,Sim
+140611,http://legis.senado.gov.br/dadosabertos/materia/140611,2020-02-11,AVN,,00001,2020,AVN 1/2020,Sim
+140780,http://legis.senado.gov.br/dadosabertos/materia/140780,2020-02-18,AVN,,00002,2020,AVN 2/2020,Sim
+140781,http://legis.senado.gov.br/dadosabertos/materia/140781,2020-02-18,AVN,,00003,2020,AVN 3/2020,Sim
+140782,http://legis.senado.gov.br/dadosabertos/materia/140782,2020-02-18,AVN,,00004,2020,AVN 4/2020,Sim
+140862,http://legis.senado.gov.br/dadosabertos/materia/140862,2020-03-03,AVN,,00005,2020,AVN 5/2020,Sim
+141085,http://legis.senado.gov.br/dadosabertos/materia/141085,2020-03-12,AVN,,00006,2020,AVN 6/2020,Sim
+140697,http://legis.senado.gov.br/dadosabertos/materia/140697,2020-02-13,INS,,00001,2020,INS 1/2020,Sim
+140819,http://legis.senado.gov.br/dadosabertos/materia/140819,2020-02-21,INS,,00002,2020,INS 2/2020,Sim
+140948,http://legis.senado.gov.br/dadosabertos/materia/140948,2020-03-04,INS,,00003,2020,INS 3/2020,Sim
+140987,http://legis.senado.gov.br/dadosabertos/materia/140987,2020-03-05,INS,,00004,2020,INS 4/2020,Sim
+140986,http://legis.senado.gov.br/dadosabertos/materia/140986,2020-03-05,INS,,00005,2020,INS 5/2020,Sim
+140981,http://legis.senado.gov.br/dadosabertos/materia/140981,2020-03-05,INS,,00006,2020,INS 6/2020,Sim
+140985,http://legis.senado.gov.br/dadosabertos/materia/140985,2020-03-05,INS,,00007,2020,INS 7/2020,Sim
+140982,http://legis.senado.gov.br/dadosabertos/materia/140982,2020-03-05,INS,,00008,2020,INS 8/2020,Sim
+140983,http://legis.senado.gov.br/dadosabertos/materia/140983,2020-03-05,INS,,00009,2020,INS 9/2020,Sim
+140988,http://legis.senado.gov.br/dadosabertos/materia/140988,2020-03-09,INS,,00010,2020,INS 10/2020,Sim
+141131,http://legis.senado.gov.br/dadosabertos/materia/141131,2020-03-20,INS,,00011,2020,INS 11/2020,Sim
+141138,http://legis.senado.gov.br/dadosabertos/materia/141138,2020-03-20,INS,,00012,2020,INS 12/2020,Sim
+141169,http://legis.senado.gov.br/dadosabertos/materia/141169,2020-03-24,INS,,00013,2020,INS 13/2020,Sim
+141189,http://legis.senado.gov.br/dadosabertos/materia/141189,2020-03-24,INS,,00014,2020,INS 14/2020,Não
+141239,http://legis.senado.gov.br/dadosabertos/materia/141239,2020-03-27,INS,,00015,2020,INS 15/2020,Sim
+141272,http://legis.senado.gov.br/dadosabertos/materia/141272,2020-03-27,INS,,00016,2020,INS 16/2020,Sim
+141282,http://legis.senado.gov.br/dadosabertos/materia/141282,2020-03-30,INS,,00017,2020,INS 17/2020,Sim
+140433,http://legis.senado.gov.br/dadosabertos/materia/140433,2020-02-03,MCN,,00001,2020,MCN 1/2020,Sim
+140452,http://legis.senado.gov.br/dadosabertos/materia/140452,2020-02-04,MCN,,00002,2020,MCN 2/2020,Sim
+140834,http://legis.senado.gov.br/dadosabertos/materia/140834,2020-02-28,MCN,,00003,2020,MCN 3/2020,Sim
+141146,http://legis.senado.gov.br/dadosabertos/materia/141146,2020-03-23,MCN,,00004,2020,MCN 4/2020,Sim
+140394,http://legis.senado.gov.br/dadosabertos/materia/140394,2020-01-03,MPV,,00918,2020,MPV 918/2020,Sim
+140423,http://legis.senado.gov.br/dadosabertos/materia/140423,2020-01-31,MPV,,00919,2020,MPV 919/2020,Sim
+140424,http://legis.senado.gov.br/dadosabertos/materia/140424,2020-01-31,MPV,,00920,2020,MPV 920/2020,Sim
+140592,http://legis.senado.gov.br/dadosabertos/materia/140592,2020-02-10,MPV,,00921,2020,MPV 921/2020,Sim
+140840,http://legis.senado.gov.br/dadosabertos/materia/140840,2020-03-02,MPV,,00922,2020,MPV 922/2020,Sim
+140850,http://legis.senado.gov.br/dadosabertos/materia/140850,2020-03-03,MPV,,00923,2020,MPV 923/2020,Sim
+141104,http://legis.senado.gov.br/dadosabertos/materia/141104,2020-03-13,MPV,,00924,2020,MPV 924/2020,Sim
+141111,http://legis.senado.gov.br/dadosabertos/materia/141111,2020-03-19,MPV,,00925,2020,MPV 925/2020,Sim
+141144,http://legis.senado.gov.br/dadosabertos/materia/141144,2020-03-20,MPV,,00926,2020,MPV 926/2020,Sim
+141145,http://legis.senado.gov.br/dadosabertos/materia/141145,2020-03-22,MPV,,00927,2020,MPV 927/2020,Sim
+141147,http://legis.senado.gov.br/dadosabertos/materia/141147,2020-03-23,MPV,,00928,2020,MPV 928/2020,Sim
+141209,http://legis.senado.gov.br/dadosabertos/materia/141209,2020-03-25,MPV,,00929,2020,MPV 929/2020,Sim
+141308,http://legis.senado.gov.br/dadosabertos/materia/141308,2020-03-30,MPV,,00930,2020,MPV 930/2020,Sim
+141309,http://legis.senado.gov.br/dadosabertos/materia/141309,2020-03-30,MPV,,00931,2020,MPV 931/2020,Sim
+140651,http://legis.senado.gov.br/dadosabertos/materia/140651,2020-02-13,MSF,,00001,2020,MSF 1/2020,Sim
+140652,http://legis.senado.gov.br/dadosabertos/materia/140652,2020-02-13,MSF,,00002,2020,MSF 2/2020,Sim
+140746,http://legis.senado.gov.br/dadosabertos/materia/140746,2020-02-18,MSF,,00003,2020,MSF 3/2020,Sim
+141067,http://legis.senado.gov.br/dadosabertos/materia/141067,2020-03-12,MSF,,00004,2020,MSF 4/2020,Sim
+141173,http://legis.senado.gov.br/dadosabertos/materia/141173,2020-03-24,MSF,,00005,2020,MSF 5/2020,Não
+140786,http://legis.senado.gov.br/dadosabertos/materia/140786,2020-02-19,OFN,,00001,2020,OFN 1/2020,Sim
+140797,http://legis.senado.gov.br/dadosabertos/materia/140797,2020-02-19,OFN,,00002,2020,OFN 2/2020,Sim
+140508,http://legis.senado.gov.br/dadosabertos/materia/140508,2020-02-05,OFS,,00001,2020,OFS 1/2020,Sim
+140747,http://legis.senado.gov.br/dadosabertos/materia/140747,2019-12-27,OFS,,00002,2020,OFS 2/2020,Sim
+140778,http://legis.senado.gov.br/dadosabertos/materia/140778,2020-02-19,PCE,,00001,2020,PCE 1/2020,Sim
+141192,http://legis.senado.gov.br/dadosabertos/materia/141192,2020-03-25,PCE,,00002,2020,PCE 2/2020,Sim
+140456,http://legis.senado.gov.br/dadosabertos/materia/140456,2020-02-04,PDL,,00013,2020,PDL 13/2020,Sim
+140457,http://legis.senado.gov.br/dadosabertos/materia/140457,2020-02-04,PDL,,00014,2020,PDL 14/2020,Sim
+140458,http://legis.senado.gov.br/dadosabertos/materia/140458,2020-02-04,PDL,,00015,2020,PDL 15/2020,Sim
+140616,http://legis.senado.gov.br/dadosabertos/materia/140616,2020-02-11,PDL,,00035,2020,PDL 35/2020,Sim
+140618,http://legis.senado.gov.br/dadosabertos/materia/140618,2020-02-11,PDL,,00036,2020,PDL 36/2020,Sim
+140619,http://legis.senado.gov.br/dadosabertos/materia/140619,2020-02-11,PDL,,00037,2020,PDL 37/2020,Sim
+140631,http://legis.senado.gov.br/dadosabertos/materia/140631,2020-02-11,PDL,,00040,2020,PDL 40/2020,Sim
+140649,http://legis.senado.gov.br/dadosabertos/materia/140649,2020-02-13,PDL,,00043,2020,PDL 43/2020,Sim
+140713,http://legis.senado.gov.br/dadosabertos/materia/140713,2020-02-17,PDL,,00053,2020,PDL 53/2020,Sim
+140714,http://legis.senado.gov.br/dadosabertos/materia/140714,2020-02-17,PDL,,00054,2020,PDL 54/2020,Sim
+140734,http://legis.senado.gov.br/dadosabertos/materia/140734,2020-02-18,PDL,,00055,2020,PDL 55/2020,Sim
+140735,http://legis.senado.gov.br/dadosabertos/materia/140735,2020-02-18,PDL,,00056,2020,PDL 56/2020,Sim
+140754,http://legis.senado.gov.br/dadosabertos/materia/140754,2020-02-18,PDL,,00059,2020,PDL 59/2020,Sim
+140895,http://legis.senado.gov.br/dadosabertos/materia/140895,2020-03-04,PDL,,00067,2020,PDL 67/2020,Sim
+140899,http://legis.senado.gov.br/dadosabertos/materia/140899,2020-03-04,PDL,,00068,2020,PDL 68/2020,Sim
+140995,http://legis.senado.gov.br/dadosabertos/materia/140995,2020-03-12,PDL,,00074,2020,PDL 74/2020,Sim
+140996,http://legis.senado.gov.br/dadosabertos/materia/140996,2020-03-12,PDL,,00075,2020,PDL 75/2020,Sim
+140997,http://legis.senado.gov.br/dadosabertos/materia/140997,2020-03-12,PDL,,00076,2020,PDL 76/2020,Sim
+140998,http://legis.senado.gov.br/dadosabertos/materia/140998,2020-03-12,PDL,,00077,2020,PDL 77/2020,Sim
+140999,http://legis.senado.gov.br/dadosabertos/materia/140999,2020-03-12,PDL,,00078,2020,PDL 78/2020,Sim
+141000,http://legis.senado.gov.br/dadosabertos/materia/141000,2020-03-12,PDL,,00079,2020,PDL 79/2020,Sim
+141084,http://legis.senado.gov.br/dadosabertos/materia/141084,2020-03-12,PDL,,00085,2020,PDL 85/2020,Sim
+141105,http://legis.senado.gov.br/dadosabertos/materia/141105,2020-03-16,PDL,,00086,2020,PDL 86/2020,Sim
+141108,http://legis.senado.gov.br/dadosabertos/materia/141108,2020-03-20,PDL,,00087,2020,PDL 87/2020,Sim
+141114,http://legis.senado.gov.br/dadosabertos/materia/141114,2020-03-19,PDL,,00088,2020,PDL 88/2020,Não
+141112,http://legis.senado.gov.br/dadosabertos/materia/141112,2020-03-20,PDL,,00089,2020,PDL 89/2020,Sim
+141157,http://legis.senado.gov.br/dadosabertos/materia/141157,2020-03-20,PDL,,00094,2020,PDL 94/2020,Sim
+141175,http://legis.senado.gov.br/dadosabertos/materia/141175,2020-03-24,PDL,,00097,2020,PDL 97/2020,Sim
+141201,http://legis.senado.gov.br/dadosabertos/materia/141201,2020-03-25,PDL,,00098,2020,PDL 98/2020,Sim
+141217,http://legis.senado.gov.br/dadosabertos/materia/141217,2020-03-26,PDL,,00102,2020,PDL 102/2020,Sim
+141221,http://legis.senado.gov.br/dadosabertos/materia/141221,2020-03-26,PDL,,00106,2020,PDL 106/2020,Sim
+141227,http://legis.senado.gov.br/dadosabertos/materia/141227,2020-03-27,PDL,,00107,2020,PDL 107/2020,Sim
+141266,http://legis.senado.gov.br/dadosabertos/materia/141266,2020-03-27,PDL,,00108,2020,PDL 108/2020,Sim
+141283,http://legis.senado.gov.br/dadosabertos/materia/141283,2020-03-30,PDL,,00116,2020,PDL 116/2020,Sim
+140576,http://legis.senado.gov.br/dadosabertos/materia/140576,2020-02-06,PEC,,00001,2020,PEC 1/2020,Sim
+140639,http://legis.senado.gov.br/dadosabertos/materia/140639,2020-02-11,PEC,,00003,2020,PEC 3/2020,Sim
+140808,http://legis.senado.gov.br/dadosabertos/materia/140808,2020-02-20,PEC,,00004,2020,PEC 4/2020,Sim
+141096,http://legis.senado.gov.br/dadosabertos/materia/141096,2020-03-12,PEC,,00008,2020,PEC 8/2020,Sim
+141101,http://legis.senado.gov.br/dadosabertos/materia/141101,2020-03-13,PEC,,00009,2020,PEC 9/2020,Sim
+140956,http://legis.senado.gov.br/dadosabertos/materia/140956,2020-03-05,PFS,,00001,2020,PFS 1/2020,Sim
+140957,http://legis.senado.gov.br/dadosabertos/materia/140957,2020-03-05,PFS,,00002,2020,PFS 2/2020,Sim
+140958,http://legis.senado.gov.br/dadosabertos/materia/140958,2020-03-05,PFS,,00003,2020,PFS 3/2020,Sim
+140412,http://legis.senado.gov.br/dadosabertos/materia/140412,2020-02-04,PL,,00001,2020,PL 1/2020,Sim
+140413,http://legis.senado.gov.br/dadosabertos/materia/140413,2020-02-04,PL,,00002,2020,PL 2/2020,Sim
+140414,http://legis.senado.gov.br/dadosabertos/materia/140414,2020-02-04,PL,,00003,2020,PL 3/2020,Sim
+140415,http://legis.senado.gov.br/dadosabertos/materia/140415,2020-02-04,PL,,00004,2020,PL 4/2020,Sim
+140490,http://legis.senado.gov.br/dadosabertos/materia/140490,2020-02-05,PL,,00023,2020,PL 23/2020,Não
+140462,http://legis.senado.gov.br/dadosabertos/materia/140462,2020-02-04,PL,,00026,2020,PL 26/2020,Sim
+140477,http://legis.senado.gov.br/dadosabertos/materia/140477,2020-02-04,PL,,00027,2020,PL 27/2020,Sim
+140463,http://legis.senado.gov.br/dadosabertos/materia/140463,2020-02-04,PL,,00030,2020,PL 30/2020,Sim
+140465,http://legis.senado.gov.br/dadosabertos/materia/140465,2020-02-04,PL,,00031,2020,PL 31/2020,Sim
+140464,http://legis.senado.gov.br/dadosabertos/materia/140464,2020-02-04,PL,,00032,2020,PL 32/2020,Sim
+140460,http://legis.senado.gov.br/dadosabertos/materia/140460,2020-02-04,PL,,00033,2020,PL 33/2020,Sim
+140472,http://legis.senado.gov.br/dadosabertos/materia/140472,2020-02-04,PL,,00034,2020,PL 34/2020,Sim
+140469,http://legis.senado.gov.br/dadosabertos/materia/140469,2020-02-04,PL,,00035,2020,PL 35/2020,Sim
+140471,http://legis.senado.gov.br/dadosabertos/materia/140471,2020-02-04,PL,,00062,2020,PL 62/2020,Sim
+140475,http://legis.senado.gov.br/dadosabertos/materia/140475,2020-02-04,PL,,00068,2020,PL 68/2020,Sim
+140476,http://legis.senado.gov.br/dadosabertos/materia/140476,2020-02-04,PL,,00070,2020,PL 70/2020,Sim
+140478,http://legis.senado.gov.br/dadosabertos/materia/140478,2020-02-04,PL,,00071,2020,PL 71/2020,Sim
+140468,http://legis.senado.gov.br/dadosabertos/materia/140468,2020-02-04,PL,,00072,2020,PL 72/2020,Sim
+140483,http://legis.senado.gov.br/dadosabertos/materia/140483,2020-02-04,PL,,00074,2020,PL 74/2020,Sim
+140481,http://legis.senado.gov.br/dadosabertos/materia/140481,2020-02-04,PL,,00076,2020,PL 76/2020,Sim
+140482,http://legis.senado.gov.br/dadosabertos/materia/140482,2020-02-04,PL,,00077,2020,PL 77/2020,Sim
+140484,http://legis.senado.gov.br/dadosabertos/materia/140484,2020-02-04,PL,,00079,2020,PL 79/2020,Sim
+140489,http://legis.senado.gov.br/dadosabertos/materia/140489,2020-02-04,PL,,00090,2020,PL 90/2020,Sim
+140488,http://legis.senado.gov.br/dadosabertos/materia/140488,2020-02-04,PL,,00097,2020,PL 97/2020,Sim
+140505,http://legis.senado.gov.br/dadosabertos/materia/140505,2020-02-05,PL,,00113,2020,PL 113/2020,Sim
+140509,http://legis.senado.gov.br/dadosabertos/materia/140509,2020-02-05,PL,,00114,2020,PL 114/2020,Sim
+140506,http://legis.senado.gov.br/dadosabertos/materia/140506,2020-02-05,PL,,00115,2020,PL 115/2020,Sim
+140519,http://legis.senado.gov.br/dadosabertos/materia/140519,2020-02-05,PL,,00116,2020,PL 116/2020,Sim
+140524,http://legis.senado.gov.br/dadosabertos/materia/140524,2020-02-05,PL,,00117,2020,PL 117/2020,Sim
+140522,http://legis.senado.gov.br/dadosabertos/materia/140522,2020-02-05,PL,,00118,2020,PL 118/2020,Sim
+140528,http://legis.senado.gov.br/dadosabertos/materia/140528,2020-02-05,PL,,00119,2020,PL 119/2020,Não
+140512,http://legis.senado.gov.br/dadosabertos/materia/140512,2020-02-05,PL,,00120,2020,PL 120/2020,Sim
+140517,http://legis.senado.gov.br/dadosabertos/materia/140517,2020-02-05,PL,,00126,2020,PL 126/2020,Sim
+140537,http://legis.senado.gov.br/dadosabertos/materia/140537,2020-02-05,PL,,00127,2020,PL 127/2020,Sim
+140530,http://legis.senado.gov.br/dadosabertos/materia/140530,2020-02-05,PL,,00135,2020,PL 135/2020,Sim
+140531,http://legis.senado.gov.br/dadosabertos/materia/140531,2020-02-05,PL,,00136,2020,PL 136/2020,Sim
+140535,http://legis.senado.gov.br/dadosabertos/materia/140535,2020-02-05,PL,,00138,2020,PL 138/2020,Sim
+140533,http://legis.senado.gov.br/dadosabertos/materia/140533,2020-02-05,PL,,00140,2020,PL 140/2020,Sim
+140539,http://legis.senado.gov.br/dadosabertos/materia/140539,2020-02-05,PL,,00143,2020,PL 143/2020,Sim
+140541,http://legis.senado.gov.br/dadosabertos/materia/140541,2020-02-05,PL,,00145,2020,PL 145/2020,Sim
+140551,http://legis.senado.gov.br/dadosabertos/materia/140551,2020-02-05,PL,,00155,2020,PL 155/2020,Sim
+140550,http://legis.senado.gov.br/dadosabertos/materia/140550,2020-02-05,PL,,00158,2020,PL 158/2020,Sim
+140552,http://legis.senado.gov.br/dadosabertos/materia/140552,2020-02-06,PL,,00168,2020,PL 168/2020,Sim
+140553,http://legis.senado.gov.br/dadosabertos/materia/140553,2020-02-06,PL,,00169,2020,PL 169/2020,Sim
+140555,http://legis.senado.gov.br/dadosabertos/materia/140555,2020-02-06,PL,,00172,2020,PL 172/2020 (Substitutivo-CD),Sim
+140556,http://legis.senado.gov.br/dadosabertos/materia/140556,2020-02-06,PL,,00173,2020,PL 173/2020,Sim
+140557,http://legis.senado.gov.br/dadosabertos/materia/140557,2020-02-06,PL,,00174,2020,PL 174/2020,Sim
+140558,http://legis.senado.gov.br/dadosabertos/materia/140558,2020-02-06,PL,,00175,2020,PL 175/2020,Sim
+140559,http://legis.senado.gov.br/dadosabertos/materia/140559,2020-02-06,PL,,00176,2020,PL 176/2020,Sim
+140560,http://legis.senado.gov.br/dadosabertos/materia/140560,2020-02-06,PL,,00177,2020,PL 177/2020 (Emenda-CD),Sim
+140561,http://legis.senado.gov.br/dadosabertos/materia/140561,2020-02-06,PL,,00178,2020,PL 178/2020,Sim
+140562,http://legis.senado.gov.br/dadosabertos/materia/140562,2020-02-06,PL,,00180,2020,PL 180/2020,Sim
+140563,http://legis.senado.gov.br/dadosabertos/materia/140563,2020-02-06,PL,,00181,2020,PL 181/2020,Sim
+140564,http://legis.senado.gov.br/dadosabertos/materia/140564,2020-02-06,PL,,00182,2020,PL 182/2020,Sim
+140565,http://legis.senado.gov.br/dadosabertos/materia/140565,2020-02-06,PL,,00183,2020,PL 183/2020,Sim
+140621,http://legis.senado.gov.br/dadosabertos/materia/140621,2020-02-11,PL,,00185,2020,PL 185/2020,Sim
+140613,http://legis.senado.gov.br/dadosabertos/materia/140613,2020-02-11,PL,,00189,2020,PL 189/2020,Sim
+140602,http://legis.senado.gov.br/dadosabertos/materia/140602,2020-02-10,PL,,00214,2020,PL 214/2020,Sim
+140620,http://legis.senado.gov.br/dadosabertos/materia/140620,2020-02-11,PL,,00220,2020,PL 220/2020,Sim
+140623,http://legis.senado.gov.br/dadosabertos/materia/140623,2020-02-11,PL,,00221,2020,PL 221/2020,Sim
+140624,http://legis.senado.gov.br/dadosabertos/materia/140624,2020-02-11,PL,,00222,2020,PL 222/2020,Sim
+140629,http://legis.senado.gov.br/dadosabertos/materia/140629,2020-02-11,PL,,00223,2020,PL 223/2020,Sim
+140628,http://legis.senado.gov.br/dadosabertos/materia/140628,2020-02-11,PL,,00224,2020,PL 224/2020,Sim
+140627,http://legis.senado.gov.br/dadosabertos/materia/140627,2020-02-11,PL,,00225,2020,PL 225/2020,Sim
+140625,http://legis.senado.gov.br/dadosabertos/materia/140625,2020-02-11,PL,,00226,2020,PL 226/2020,Sim
+140630,http://legis.senado.gov.br/dadosabertos/materia/140630,2020-02-11,PL,,00227,2020,PL 227/2020,Sim
+140636,http://legis.senado.gov.br/dadosabertos/materia/140636,2020-02-11,PL,,00235,2020,PL 235/2020,Não
+140637,http://legis.senado.gov.br/dadosabertos/materia/140637,2020-02-11,PL,,00242,2020,PL 242/2020,Sim
+140635,http://legis.senado.gov.br/dadosabertos/materia/140635,2020-02-11,PL,,00243,2020,PL 243/2020,Sim
+140634,http://legis.senado.gov.br/dadosabertos/materia/140634,2020-02-11,PL,,00245,2020,PL 245/2020,Sim
+140640,http://legis.senado.gov.br/dadosabertos/materia/140640,2020-02-11,PL,,00250,2020,PL 250/2020,Sim
+140763,http://legis.senado.gov.br/dadosabertos/materia/140763,2020-02-18,PL,,00316,2020,PL 316/2020,Sim
+140741,http://legis.senado.gov.br/dadosabertos/materia/140741,2020-02-18,PL,,00317,2020,PL 317/2020,Sim
+140742,http://legis.senado.gov.br/dadosabertos/materia/140742,2020-02-18,PL,,00318,2020,PL 318/2020,Sim
+140740,http://legis.senado.gov.br/dadosabertos/materia/140740,2020-02-18,PL,,00319,2020,PL 319/2020,Sim
+140717,http://legis.senado.gov.br/dadosabertos/materia/140717,2020-02-17,PL,,00333,2020,PL 333/2020,Sim
+140736,http://legis.senado.gov.br/dadosabertos/materia/140736,2020-02-18,PL,,00355,2020,PL 355/2020,Sim
+140737,http://legis.senado.gov.br/dadosabertos/materia/140737,2020-02-18,PL,,00356,2020,PL 356/2020,Sim
+140738,http://legis.senado.gov.br/dadosabertos/materia/140738,2020-02-18,PL,,00357,2020,PL 357/2020,Sim
+140744,http://legis.senado.gov.br/dadosabertos/materia/140744,2020-02-18,PL,,00358,2020,PL 358/2020,Sim
+140751,http://legis.senado.gov.br/dadosabertos/materia/140751,2020-02-18,PL,,00359,2020,PL 359/2020,Sim
+140739,http://legis.senado.gov.br/dadosabertos/materia/140739,2020-02-18,PL,,00362,2020,PL 362/2020,Sim
+140761,http://legis.senado.gov.br/dadosabertos/materia/140761,2020-02-18,PL,,00375,2020,PL 375/2020,Sim
+140759,http://legis.senado.gov.br/dadosabertos/materia/140759,2020-02-18,PL,,00377,2020,PL 377/2020,Sim
+140790,http://legis.senado.gov.br/dadosabertos/materia/140790,2020-02-19,PL,,00391,2020,PL 391/2020,Sim
+140787,http://legis.senado.gov.br/dadosabertos/materia/140787,2020-02-19,PL,,00392,2020,PL 392/2020,Sim
+140789,http://legis.senado.gov.br/dadosabertos/materia/140789,2020-02-19,PL,,00393,2020,PL 393/2020,Sim
+140791,http://legis.senado.gov.br/dadosabertos/materia/140791,2020-02-19,PL,,00398,2020,PL 398/2020,Sim
+140817,http://legis.senado.gov.br/dadosabertos/materia/140817,2020-02-21,PL,,00414,2020,PL 414/2020,Sim
+140818,http://legis.senado.gov.br/dadosabertos/materia/140818,2020-02-21,PL,,00415,2020,PL 415/2020,Sim
+140938,http://legis.senado.gov.br/dadosabertos/materia/140938,2020-03-04,PL,,00480,2020,PL 480/2020,Sim
+140942,http://legis.senado.gov.br/dadosabertos/materia/140942,2020-03-04,PL,,00481,2020,PL 481/2020,Sim
+140941,http://legis.senado.gov.br/dadosabertos/materia/140941,2020-03-04,PL,,00482,2020,PL 482/2020,Sim
+140950,http://legis.senado.gov.br/dadosabertos/materia/140950,2020-03-04,PL,,00483,2020,PL 483/2020,Sim
+140927,http://legis.senado.gov.br/dadosabertos/materia/140927,2020-03-04,PL,,00484,2020,PL 484/2020,Sim
+140922,http://legis.senado.gov.br/dadosabertos/materia/140922,2020-03-04,PL,,00485,2020,PL 485/2020,Sim
+140937,http://legis.senado.gov.br/dadosabertos/materia/140937,2020-03-04,PL,,00486,2020,PL 486/2020,Sim
+140933,http://legis.senado.gov.br/dadosabertos/materia/140933,2020-03-04,PL,,00487,2020,PL 487/2020,Sim
+140931,http://legis.senado.gov.br/dadosabertos/materia/140931,2020-03-04,PL,,00490,2020,PL 490/2020,Sim
+140945,http://legis.senado.gov.br/dadosabertos/materia/140945,2020-03-04,PL,,00493,2020,PL 493/2020,Sim
+140934,http://legis.senado.gov.br/dadosabertos/materia/140934,2020-03-04,PL,,00495,2020,PL 495/2020,Sim
+140951,http://legis.senado.gov.br/dadosabertos/materia/140951,2020-03-04,PL,,00499,2020,PL 499/2020,Sim
+140946,http://legis.senado.gov.br/dadosabertos/materia/140946,2020-03-04,PL,,00501,2020,PL 501/2020,Sim
+140939,http://legis.senado.gov.br/dadosabertos/materia/140939,2020-03-04,PL,,00502,2020,PL 502/2020,Sim
+140943,http://legis.senado.gov.br/dadosabertos/materia/140943,2020-03-04,PL,,00503,2020,PL 503/2020,Sim
+140940,http://legis.senado.gov.br/dadosabertos/materia/140940,2020-03-04,PL,,00509,2020,PL 509/2020,Sim
+140947,http://legis.senado.gov.br/dadosabertos/materia/140947,2020-03-04,PL,,00524,2020,PL 524/2020,Sim
+140984,http://legis.senado.gov.br/dadosabertos/materia/140984,2020-03-05,PL,,00570,2020,PL 570/2020,Sim
+141006,http://legis.senado.gov.br/dadosabertos/materia/141006,2020-03-09,PL,,00573,2020,PL 573/2020,Sim
+140990,http://legis.senado.gov.br/dadosabertos/materia/140990,2020-03-09,PL,,00574,2020,PL 574/2020,Sim
+140989,http://legis.senado.gov.br/dadosabertos/materia/140989,2020-03-09,PL,,00575,2020,PL 575/2020,Sim
+140991,http://legis.senado.gov.br/dadosabertos/materia/140991,2020-03-09,PL,,00576,2020,PL 576/2020,Sim
+141007,http://legis.senado.gov.br/dadosabertos/materia/141007,2020-03-09,PL,,00578,2020,PL 578/2020,Sim
+141094,http://legis.senado.gov.br/dadosabertos/materia/141094,2020-03-12,PL,,00630,2020,PL 630/2020,Sim
+141092,http://legis.senado.gov.br/dadosabertos/materia/141092,2020-03-12,PL,,00631,2020,PL 631/2020,Sim
+141090,http://legis.senado.gov.br/dadosabertos/materia/141090,2020-03-12,PL,,00632,2020,PL 632/2020,Sim
+141091,http://legis.senado.gov.br/dadosabertos/materia/141091,2020-03-12,PL,,00633,2020,PL 633/2020,Sim
+141089,http://legis.senado.gov.br/dadosabertos/materia/141089,2020-03-12,PL,,00634,2020,PL 634/2020,Sim
+141093,http://legis.senado.gov.br/dadosabertos/materia/141093,2020-03-12,PL,,00635,2020,PL 635/2020,Sim
+141095,http://legis.senado.gov.br/dadosabertos/materia/141095,2020-03-12,PL,,00636,2020,PL 636/2020,Sim
+141097,http://legis.senado.gov.br/dadosabertos/materia/141097,2020-03-12,PL,,00642,2020,PL 642/2020,Sim
+141110,http://legis.senado.gov.br/dadosabertos/materia/141110,2020-03-20,PL,,00668,2020,PL 668/2020,Não
+141263,http://legis.senado.gov.br/dadosabertos/materia/141263,2020-03-26,PL,,00696,2020,PL 696/2020,Sim
+141269,http://legis.senado.gov.br/dadosabertos/materia/141269,2020-03-27,PL,,00702,2020,PL 702/2020,Sim
+141118,http://legis.senado.gov.br/dadosabertos/materia/141118,2020-03-20,PL,,00751,2020,PL 751/2020,Sim
+141119,http://legis.senado.gov.br/dadosabertos/materia/141119,2020-03-20,PL,,00766,2020,PL 766/2020,Sim
+141120,http://legis.senado.gov.br/dadosabertos/materia/141120,2020-03-20,PL,,00767,2020,PL 767/2020,Sim
+141121,http://legis.senado.gov.br/dadosabertos/materia/141121,2020-03-20,PL,,00768,2020,PL 768/2020,Sim
+141122,http://legis.senado.gov.br/dadosabertos/materia/141122,2020-03-20,PL,,00769,2020,PL 769/2020,Sim
+141123,http://legis.senado.gov.br/dadosabertos/materia/141123,2020-03-20,PL,,00770,2020,PL 770/2020,Sim
+141124,http://legis.senado.gov.br/dadosabertos/materia/141124,2020-03-20,PL,,00771,2020,PL 771/2020,Sim
+141125,http://legis.senado.gov.br/dadosabertos/materia/141125,2020-03-20,PL,,00772,2020,PL 772/2020,Sim
+141126,http://legis.senado.gov.br/dadosabertos/materia/141126,2020-03-20,PL,,00773,2020,PL 773/2020,Sim
+141127,http://legis.senado.gov.br/dadosabertos/materia/141127,2020-03-20,PL,,00774,2020,PL 774/2020,Não
+141128,http://legis.senado.gov.br/dadosabertos/materia/141128,2020-03-20,PL,,00775,2020,PL 775/2020,Sim
+141129,http://legis.senado.gov.br/dadosabertos/materia/141129,2020-03-20,PL,,00776,2020,PL 776/2020,Sim
+141130,http://legis.senado.gov.br/dadosabertos/materia/141130,2020-03-20,PL,,00777,2020,PL 777/2020,Sim
+141132,http://legis.senado.gov.br/dadosabertos/materia/141132,2020-03-20,PL,,00780,2020,PL 780/2020,Sim
+141133,http://legis.senado.gov.br/dadosabertos/materia/141133,2020-03-20,PL,,00781,2020,PL 781/2020,Sim
+141134,http://legis.senado.gov.br/dadosabertos/materia/141134,2020-03-20,PL,,00782,2020,PL 782/2020,Sim
+141135,http://legis.senado.gov.br/dadosabertos/materia/141135,2020-03-20,PL,,00783,2020,PL 783/2020,Sim
+141136,http://legis.senado.gov.br/dadosabertos/materia/141136,2020-03-20,PL,,00784,2020,PL 784/2020,Sim
+141262,http://legis.senado.gov.br/dadosabertos/materia/141262,2020-03-26,PL,,00786,2020,PL 786/2020,Não
+141139,http://legis.senado.gov.br/dadosabertos/materia/141139,2020-03-20,PL,,00799,2020,PL 799/2020,Sim
+141140,http://legis.senado.gov.br/dadosabertos/materia/141140,2020-03-20,PL,,00800,2020,PL 800/2020,Sim
+141141,http://legis.senado.gov.br/dadosabertos/materia/141141,2020-03-20,PL,,00801,2020,PL 801/2020,Sim
+141142,http://legis.senado.gov.br/dadosabertos/materia/141142,2020-03-20,PL,,00802,2020,PL 802/2020,Sim
+141264,http://legis.senado.gov.br/dadosabertos/materia/141264,2020-03-27,PL,,00805,2020,PL 805/2020,Sim
+141150,http://legis.senado.gov.br/dadosabertos/materia/141150,2020-03-24,PL,,00825,2020,PL 825/2020,Sim
+141154,http://legis.senado.gov.br/dadosabertos/materia/141154,2020-03-20,PL,,00831,2020,PL 831/2020,Sim
+141155,http://legis.senado.gov.br/dadosabertos/materia/141155,2020-03-20,PL,,00833,2020,PL 833/2020,Sim
+141156,http://legis.senado.gov.br/dadosabertos/materia/141156,2020-03-20,PL,,00835,2020,PL 835/2020,Sim
+141158,http://legis.senado.gov.br/dadosabertos/materia/141158,2020-03-20,PL,,00838,2020,PL 838/2020,Sim
+141159,http://legis.senado.gov.br/dadosabertos/materia/141159,2020-03-20,PL,,00840,2020,PL 840/2020,Sim
+141165,http://legis.senado.gov.br/dadosabertos/materia/141165,2020-03-24,PL,,00867,2020,PL 867/2020,Sim
+141167,http://legis.senado.gov.br/dadosabertos/materia/141167,2020-03-24,PL,,00868,2020,PL 868/2020,Sim
+141168,http://legis.senado.gov.br/dadosabertos/materia/141168,2020-03-24,PL,,00869,2020,PL 869/2020,Sim
+141170,http://legis.senado.gov.br/dadosabertos/materia/141170,2020-03-24,PL,,00870,2020,PL 870/2020,Sim
+141171,http://legis.senado.gov.br/dadosabertos/materia/141171,2020-03-24,PL,,00871,2020,PL 871/2020,Sim
+141172,http://legis.senado.gov.br/dadosabertos/materia/141172,2020-03-24,PL,,00872,2020,PL 872/2020,Sim
+141174,http://legis.senado.gov.br/dadosabertos/materia/141174,2020-03-24,PL,,00873,2020,PL 873/2020,Sim
+141176,http://legis.senado.gov.br/dadosabertos/materia/141176,2020-03-24,PL,,00874,2020,PL 874/2020,Sim
+141177,http://legis.senado.gov.br/dadosabertos/materia/141177,2020-03-24,PL,,00875,2020,PL 875/2020,Sim
+141178,http://legis.senado.gov.br/dadosabertos/materia/141178,2020-03-24,PL,,00876,2020,PL 876/2020,Sim
+141180,http://legis.senado.gov.br/dadosabertos/materia/141180,2020-03-24,PL,,00877,2020,PL 877/2020,Sim
+141179,http://legis.senado.gov.br/dadosabertos/materia/141179,2020-03-24,PL,,00878,2020,PL 878/2020,Sim
+141182,http://legis.senado.gov.br/dadosabertos/materia/141182,2020-03-24,PL,,00879,2020,PL 879/2020,Sim
+141183,http://legis.senado.gov.br/dadosabertos/materia/141183,2020-03-24,PL,,00880,2020,PL 880/2020,Sim
+141185,http://legis.senado.gov.br/dadosabertos/materia/141185,2020-03-24,PL,,00881,2020,PL 881/2020,Sim
+141186,http://legis.senado.gov.br/dadosabertos/materia/141186,2020-03-24,PL,,00882,2020,PL 882/2020,Sim
+141187,http://legis.senado.gov.br/dadosabertos/materia/141187,2020-03-24,PL,,00883,2020,PL 883/2020,Sim
+141190,http://legis.senado.gov.br/dadosabertos/materia/141190,2020-03-24,PL,,00884,2020,PL 884/2020,Sim
+141195,http://legis.senado.gov.br/dadosabertos/materia/141195,2020-03-25,PL,,00888,2020,PL 888/2020,Sim
+141196,http://legis.senado.gov.br/dadosabertos/materia/141196,2020-03-25,PL,,00889,2020,PL 889/2020,Sim
+141193,http://legis.senado.gov.br/dadosabertos/materia/141193,2020-03-25,PL,,00890,2020,PL 890/2020,Sim
+141194,http://legis.senado.gov.br/dadosabertos/materia/141194,2020-03-25,PL,,00891,2020,PL 891/2020,Sim
+141197,http://legis.senado.gov.br/dadosabertos/materia/141197,2020-03-25,PL,,00911,2020,PL 911/2020,Sim
+141198,http://legis.senado.gov.br/dadosabertos/materia/141198,2020-03-25,PL,,00917,2020,PL 917/2020,Sim
+141199,http://legis.senado.gov.br/dadosabertos/materia/141199,2020-03-25,PL,,00943,2020,PL 943/2020,Sim
+141200,http://legis.senado.gov.br/dadosabertos/materia/141200,2020-03-25,PL,,00944,2020,PL 944/2020,Sim
+141203,http://legis.senado.gov.br/dadosabertos/materia/141203,2020-03-25,PL,,00946,2020,PL 946/2020,Sim
+141204,http://legis.senado.gov.br/dadosabertos/materia/141204,2020-03-25,PL,,00949,2020,PL 949/2020,Sim
+141205,http://legis.senado.gov.br/dadosabertos/materia/141205,2020-03-25,PL,,00951,2020,PL 951/2020,Sim
+141210,http://legis.senado.gov.br/dadosabertos/materia/141210,2020-03-25,PL,,00954,2020,PL 954/2020,Sim
+141212,http://legis.senado.gov.br/dadosabertos/materia/141212,2020-03-25,PL,,00961,2020,PL 961/2020,Sim
+141213,http://legis.senado.gov.br/dadosabertos/materia/141213,2020-03-25,PL,,00962,2020,PL 962/2020,Sim
+141214,http://legis.senado.gov.br/dadosabertos/materia/141214,2020-03-25,PL,,00963,2020,PL 963/2020,Sim
+141219,http://legis.senado.gov.br/dadosabertos/materia/141219,2020-03-26,PL,,01006,2020,PL 1006/2020,Sim
+141220,http://legis.senado.gov.br/dadosabertos/materia/141220,2020-03-26,PL,,01012,2020,PL 1012/2020,Sim
+141222,http://legis.senado.gov.br/dadosabertos/materia/141222,2020-03-26,PL,,01017,2020,PL 1017/2020,Sim
+141225,http://legis.senado.gov.br/dadosabertos/materia/141225,2020-03-26,PL,,01027,2020,PL 1027/2020,Sim
+141233,http://legis.senado.gov.br/dadosabertos/materia/141233,2020-03-27,PL,,01037,2020,PL 1037/2020,Sim
+141234,http://legis.senado.gov.br/dadosabertos/materia/141234,2020-03-27,PL,,01038,2020,PL 1038/2020,Sim
+141235,http://legis.senado.gov.br/dadosabertos/materia/141235,2020-03-27,PL,,01039,2020,PL 1039/2020,Sim
+141236,http://legis.senado.gov.br/dadosabertos/materia/141236,2020-03-27,PL,,01040,2020,PL 1040/2020,Sim
+141240,http://legis.senado.gov.br/dadosabertos/materia/141240,2020-03-27,PL,,01041,2020,PL 1041/2020,Sim
+141241,http://legis.senado.gov.br/dadosabertos/materia/141241,2020-03-27,PL,,01042,2020,PL 1042/2020,Sim
+141242,http://legis.senado.gov.br/dadosabertos/materia/141242,2020-03-27,PL,,01043,2020,PL 1043/2020,Sim
+141243,http://legis.senado.gov.br/dadosabertos/materia/141243,2020-03-27,PL,,01044,2020,PL 1044/2020,Sim
+141244,http://legis.senado.gov.br/dadosabertos/materia/141244,2020-03-27,PL,,01045,2020,PL 1045/2020,Sim
+141245,http://legis.senado.gov.br/dadosabertos/materia/141245,2020-03-27,PL,,01046,2020,PL 1046/2020,Sim
+141246,http://legis.senado.gov.br/dadosabertos/materia/141246,2020-03-27,PL,,01047,2020,PL 1047/2020,Sim
+141247,http://legis.senado.gov.br/dadosabertos/materia/141247,2020-03-27,PL,,01048,2020,PL 1048/2020,Sim
+141248,http://legis.senado.gov.br/dadosabertos/materia/141248,2020-03-27,PL,,01049,2020,PL 1049/2020,Sim
+141249,http://legis.senado.gov.br/dadosabertos/materia/141249,2020-03-27,PL,,01050,2020,PL 1050/2020,Sim
+141250,http://legis.senado.gov.br/dadosabertos/materia/141250,2020-03-27,PL,,01051,2020,PL 1051/2020,Sim
+141251,http://legis.senado.gov.br/dadosabertos/materia/141251,2020-03-27,PL,,01052,2020,PL 1052/2020,Sim
+141252,http://legis.senado.gov.br/dadosabertos/materia/141252,2020-03-27,PL,,01053,2020,PL 1053/2020,Sim
+141253,http://legis.senado.gov.br/dadosabertos/materia/141253,2020-03-27,PL,,01054,2020,PL 1054/2020,Sim
+141255,http://legis.senado.gov.br/dadosabertos/materia/141255,2020-03-27,PL,,01056,2020,PL 1056/2020,Sim
+141256,http://legis.senado.gov.br/dadosabertos/materia/141256,2020-03-27,PL,,01057,2020,PL 1057/2020,Sim
+141257,http://legis.senado.gov.br/dadosabertos/materia/141257,2020-03-27,PL,,01058,2020,PL 1058/2020,Sim
+141258,http://legis.senado.gov.br/dadosabertos/materia/141258,2020-03-27,PL,,01059,2020,PL 1059/2020,Sim
+141259,http://legis.senado.gov.br/dadosabertos/materia/141259,2020-03-27,PL,,01060,2020,PL 1060/2020,Sim
+141260,http://legis.senado.gov.br/dadosabertos/materia/141260,2020-03-27,PL,,01061,2020,PL 1061/2020,Sim
+141261,http://legis.senado.gov.br/dadosabertos/materia/141261,2020-03-27,PL,,01062,2020,PL 1062/2020,Sim
+141265,http://legis.senado.gov.br/dadosabertos/materia/141265,2020-03-27,PL,,01063,2020,PL 1063/2020,Sim
+141267,http://legis.senado.gov.br/dadosabertos/materia/141267,2020-03-27,PL,,01064,2020,PL 1064/2020,Sim
+141268,http://legis.senado.gov.br/dadosabertos/materia/141268,2020-03-27,PL,,01065,2020,PL 1065/2020,Sim
+141270,http://legis.senado.gov.br/dadosabertos/materia/141270,2020-03-27,PL,,01066,2020,PL 1066/2020,Não
+141273,http://legis.senado.gov.br/dadosabertos/materia/141273,2020-03-27,PL,,01120,2020,PL 1120/2020,Sim
+141274,http://legis.senado.gov.br/dadosabertos/materia/141274,2020-03-27,PL,,01121,2020,PL 1121/2020,Sim
+141275,http://legis.senado.gov.br/dadosabertos/materia/141275,2020-03-27,PL,,01122,2020,PL 1122/2020,Sim
+141276,http://legis.senado.gov.br/dadosabertos/materia/141276,2020-03-27,PL,,01123,2020,PL 1123/2020,Sim
+141277,http://legis.senado.gov.br/dadosabertos/materia/141277,2020-03-27,PL,,01124,2020,PL 1124/2020,Sim
+141278,http://legis.senado.gov.br/dadosabertos/materia/141278,2020-03-30,PL,,01125,2020,PL 1125/2020,Sim
+141279,http://legis.senado.gov.br/dadosabertos/materia/141279,2020-03-30,PL,,01126,2020,PL 1126/2020,Sim
+141280,http://legis.senado.gov.br/dadosabertos/materia/141280,2020-03-30,PL,,01127,2020,PL 1127/2020,Sim
+141281,http://legis.senado.gov.br/dadosabertos/materia/141281,2020-03-30,PL,,01128,2020,PL 1128/2020,Sim
+141288,http://legis.senado.gov.br/dadosabertos/materia/141288,2020-03-30,PL,,01153,2020,PL 1153/2020,Sim
+141292,http://legis.senado.gov.br/dadosabertos/materia/141292,2020-03-30,PL,,01162,2020,PL 1162/2020,Sim
+141293,http://legis.senado.gov.br/dadosabertos/materia/141293,2020-03-30,PL,,01163,2020,PL 1163/2020,Sim
+141295,http://legis.senado.gov.br/dadosabertos/materia/141295,2020-03-30,PL,,01164,2020,PL 1164/2020,Sim
+141296,http://legis.senado.gov.br/dadosabertos/materia/141296,2020-03-30,PL,,01165,2020,PL 1165/2020,Sim
+141297,http://legis.senado.gov.br/dadosabertos/materia/141297,2020-03-30,PL,,01166,2020,PL 1166/2020,Sim
+141298,http://legis.senado.gov.br/dadosabertos/materia/141298,2020-03-30,PL,,01167,2020,PL 1167/2020,Sim
+141299,http://legis.senado.gov.br/dadosabertos/materia/141299,2020-03-30,PL,,01168,2020,PL 1168/2020,Sim
+141300,http://legis.senado.gov.br/dadosabertos/materia/141300,2020-03-30,PL,,01169,2020,PL 1169/2020,Sim
+141301,http://legis.senado.gov.br/dadosabertos/materia/141301,2020-03-30,PL,,01170,2020,PL 1170/2020,Sim
+141302,http://legis.senado.gov.br/dadosabertos/materia/141302,2020-03-30,PL,,01171,2020,PL 1171/2020,Sim
+141303,http://legis.senado.gov.br/dadosabertos/materia/141303,2020-03-30,PL,,01172,2020,PL 1172/2020,Sim
+141304,http://legis.senado.gov.br/dadosabertos/materia/141304,2020-03-30,PL,,01173,2020,PL 1173/2020,Sim
+141305,http://legis.senado.gov.br/dadosabertos/materia/141305,2020-03-30,PL,,01174,2020,PL 1174/2020,Sim
+141306,http://legis.senado.gov.br/dadosabertos/materia/141306,2020-03-30,PL,,01179,2020,PL 1179/2020,Sim
+141307,http://legis.senado.gov.br/dadosabertos/materia/141307,2020-03-30,PL,,01185,2020,PL 1185/2020,Sim
+141311,http://legis.senado.gov.br/dadosabertos/materia/141311,2020-03-30,PL,,01186,2020,PL 1186/2020,Sim
+141312,http://legis.senado.gov.br/dadosabertos/materia/141312,2020-03-30,PL,,01187,2020,PL 1187/2020,Sim
+141315,http://legis.senado.gov.br/dadosabertos/materia/141315,2020-03-30,PL,,01188,2020,PL 1188/2020,Sim
+141317,http://legis.senado.gov.br/dadosabertos/materia/141317,2020-03-31,PL,,01190,2020,PL 1190/2020,Sim
+141318,http://legis.senado.gov.br/dadosabertos/materia/141318,2020-03-31,PL,,01191,2020,PL 1191/2020,Sim
+141319,http://legis.senado.gov.br/dadosabertos/materia/141319,2020-03-31,PL,,01192,2020,PL 1192/2020,Sim
+140430,http://legis.senado.gov.br/dadosabertos/materia/140430,2020-02-03,PLN,,00001,2020,PLN 1/2020,Sim
+140867,http://legis.senado.gov.br/dadosabertos/materia/140867,2020-03-03,PLN,,00002,2020,PLN 2/2020,Sim
+140868,http://legis.senado.gov.br/dadosabertos/materia/140868,2020-03-03,PLN,,00003,2020,PLN 3/2020,Sim
+140869,http://legis.senado.gov.br/dadosabertos/materia/140869,2020-03-03,PLN,,00004,2020,PLN 4/2020,Sim
+141231,http://legis.senado.gov.br/dadosabertos/materia/141231,2020-03-26,PLN,,00005,2020,PLN 5/2020,Sim
+141232,http://legis.senado.gov.br/dadosabertos/materia/141232,2020-03-26,PLN,,00006,2020,PLN 6/2020,Sim
+140516,http://legis.senado.gov.br/dadosabertos/materia/140516,2020-02-05,PLP,,00002,2020,PLP 2/2020,Sim
+140532,http://legis.senado.gov.br/dadosabertos/materia/140532,2020-02-05,PLP,,00004,2020,PLP 4/2020,Sim
+140626,http://legis.senado.gov.br/dadosabertos/materia/140626,2020-02-11,PLP,,00006,2020,PLP 6/2020,Sim
+140793,http://legis.senado.gov.br/dadosabertos/materia/140793,2020-02-19,PLP,,00013,2020,PLP 13/2020,Sim
+140930,http://legis.senado.gov.br/dadosabertos/materia/140930,2020-03-04,PLP,,00020,2020,PLP 20/2020,Sim
+140960,http://legis.senado.gov.br/dadosabertos/materia/140960,2020-03-05,PLP,,00022,2020,PLP 22/2020,Sim
+141143,http://legis.senado.gov.br/dadosabertos/materia/141143,2020-03-20,PLP,,00033,2020,PLP 33/2020,Sim
+141166,http://legis.senado.gov.br/dadosabertos/materia/141166,2020-03-24,PLP,,00037,2020,PLP 37/2020,Sim
+141181,http://legis.senado.gov.br/dadosabertos/materia/141181,2020-03-24,PLP,,00038,2020,PLP 38/2020,Sim
+141188,http://legis.senado.gov.br/dadosabertos/materia/141188,2020-03-24,PLP,,00039,2020,PLP 39/2020,Sim
+141202,http://legis.senado.gov.br/dadosabertos/materia/141202,2020-03-25,PLP,,00044,2020,PLP 44/2020,Sim
+141206,http://legis.senado.gov.br/dadosabertos/materia/141206,2020-03-25,PLP,,00045,2020,PLP 45/2020,Sim
+141208,http://legis.senado.gov.br/dadosabertos/materia/141208,2020-03-25,PLP,,00046,2020,PLP 46/2020,Sim
+141216,http://legis.senado.gov.br/dadosabertos/materia/141216,2020-03-26,PLP,,00047,2020,PLP 47/2020,Sim
+141223,http://legis.senado.gov.br/dadosabertos/materia/141223,2020-03-26,PLP,,00050,2020,PLP 50/2020,Sim
+141224,http://legis.senado.gov.br/dadosabertos/materia/141224,2020-03-26,PLP,,00051,2020,PLP 51/2020,Sim
+141271,http://legis.senado.gov.br/dadosabertos/materia/141271,2020-03-30,PLP,,00058,2020,PLP 58/2020,Sim
+141291,http://legis.senado.gov.br/dadosabertos/materia/141291,2020-03-30,PLP,,00060,2020,PLP 60/2020,Sim
+141294,http://legis.senado.gov.br/dadosabertos/materia/141294,2020-03-30,PLP,,00061,2020,PLP 61/2020,Sim
+140492,http://legis.senado.gov.br/dadosabertos/materia/140492,2020-02-05,PRM,,00001,2020,PRM 1/2020,Sim
+140523,http://legis.senado.gov.br/dadosabertos/materia/140523,2020-02-05,PRS,,00001,2020,PRS 1/2020,Sim
+140525,http://legis.senado.gov.br/dadosabertos/materia/140525,2020-02-05,PRS,,00002,2020,PRS 2/2020,Sim
+140526,http://legis.senado.gov.br/dadosabertos/materia/140526,2020-02-05,PRS,,00003,2020,PRS 3/2020,Sim
+140622,http://legis.senado.gov.br/dadosabertos/materia/140622,2020-02-11,PRS,,00004,2020,PRS 4/2020,Sim
+140760,http://legis.senado.gov.br/dadosabertos/materia/140760,2020-02-18,PRS,,00005,2020,PRS 5/2020,Sim
+140962,http://legis.senado.gov.br/dadosabertos/materia/140962,2020-03-05,PRS,,00006,2020,PRS 6/2020,Sim
+141098,http://legis.senado.gov.br/dadosabertos/materia/141098,2020-03-12,PRS,,00007,2020,PRS 7/2020,Sim
+141117,http://legis.senado.gov.br/dadosabertos/materia/141117,2020-03-20,PRS,,00008,2020,PRS 8/2020,Sim
+141137,http://legis.senado.gov.br/dadosabertos/materia/141137,2020-03-20,PRS,,00009,2020,PRS 9/2020,Sim
+141184,http://legis.senado.gov.br/dadosabertos/materia/141184,2020-03-24,PRS,,00010,2020,PRS 10/2020,Sim
+141207,http://legis.senado.gov.br/dadosabertos/materia/141207,2020-03-25,PRS,,00011,2020,PRS 11/2020,Não
+141238,http://legis.senado.gov.br/dadosabertos/materia/141238,2020-03-27,PRS,,00012,2020,PRS 12/2020,Sim
+140671,http://legis.senado.gov.br/dadosabertos/materia/140671,2020-02-06,R.S,,00001,2020,R.S 1/2020,Não
+140854,http://legis.senado.gov.br/dadosabertos/materia/140854,2020-02-13,R.S,,00002,2020,R.S 2/2020,Sim
+140857,http://legis.senado.gov.br/dadosabertos/materia/140857,2020-02-20,R.S,,00003,2020,R.S 3/2020,Sim
+140814,http://legis.senado.gov.br/dadosabertos/materia/140814,2020-02-20,R.S,,00004,2020,R.S 4/2020,Não
+140825,http://legis.senado.gov.br/dadosabertos/materia/140825,2020-03-02,R.S,,00005,2020,R.S 5/2020,Não
+140431,http://legis.senado.gov.br/dadosabertos/materia/140431,2020-02-03,REQ,,00001,2020,REQ 1/2020 - CAE,Sim
+140944,http://legis.senado.gov.br/dadosabertos/materia/140944,2020-03-04,REQ,,00001,2020,REQ 1/2020 - CTFCGPCC,Sim
+140599,http://legis.senado.gov.br/dadosabertos/materia/140599,2020-02-10,REQ,,00001,2020,REQ 1/2020 - CI,Não
+140644,http://legis.senado.gov.br/dadosabertos/materia/140644,2020-02-12,REQ,,00001,2020,REQ 1/2020 - CCT,Sim
+140665,http://legis.senado.gov.br/dadosabertos/materia/140665,2020-02-12,REQ,,00001,2020,REQ 1/2020 - CMCVM,Sim
+140459,http://legis.senado.gov.br/dadosabertos/materia/140459,2020-02-04,REQ,,00001,2020,REQ 1/2020 - CDR,Não
+140425,http://legis.senado.gov.br/dadosabertos/materia/140425,2020-01-31,REQ,,00001,2020,REQ 1/2020 - CMA,Não
+140422,http://legis.senado.gov.br/dadosabertos/materia/140422,2020-01-30,REQ,,00001,2020,REQ 1/2020 - CE,Não
+140432,http://legis.senado.gov.br/dadosabertos/materia/140432,2020-02-03,REQ,,00001,2020,REQ 1/2020 - CDH,Não
+140494,http://legis.senado.gov.br/dadosabertos/materia/140494,2020-02-05,REQ,,00001,2020,REQ 1/2020 - CRA,Não
+140491,http://legis.senado.gov.br/dadosabertos/materia/140491,2020-01-27,REQ,,00001,2020,REQ 1/2020 - CDIR,Sim
+140427,http://legis.senado.gov.br/dadosabertos/materia/140427,2020-02-03,REQ,,00001,2020,REQ 1/2020 - CTFC,Não
+140411,http://legis.senado.gov.br/dadosabertos/materia/140411,2020-01-28,REQ,,00001,2020,REQ 1/2020 - CAS,Não
+140441,http://legis.senado.gov.br/dadosabertos/materia/140441,2020-02-03,REQ,,00001,2020,REQ 1/2020 - CRE,Não
+140496,http://legis.senado.gov.br/dadosabertos/materia/140496,2020-02-05,REQ,,00001,2020,REQ 1/2020 - CCJ,Não
+140428,http://legis.senado.gov.br/dadosabertos/materia/140428,2020-02-03,REQ,,00002,2020,REQ 2/2020 - CTFC,Sim
+140612,http://legis.senado.gov.br/dadosabertos/materia/140612,2020-02-11,REQ,,00002,2020,REQ 2/2020 - CI,Não
+140580,http://legis.senado.gov.br/dadosabertos/materia/140580,2019-12-18,REQ,,00002,2020,REQ 2/2020 - CDIR,Sim
+140642,http://legis.senado.gov.br/dadosabertos/materia/140642,2020-02-11,REQ,,00002,2020,REQ 2/2020 - CDR,Sim
+140609,http://legis.senado.gov.br/dadosabertos/materia/140609,2020-02-11,REQ,,00002,2020,REQ 2/2020 - CAE,Sim
+140666,http://legis.senado.gov.br/dadosabertos/materia/140666,2020-02-12,REQ,,00002,2020,REQ 2/2020 - CMCVM,Sim
+140650,http://legis.senado.gov.br/dadosabertos/materia/140650,2020-02-12,REQ,,00002,2020,REQ 2/2020 - CRA,Não
+140654,http://legis.senado.gov.br/dadosabertos/materia/140654,2020-02-12,REQ,,00002,2020,REQ 2/2020 - CCT,Sim
+140426,http://legis.senado.gov.br/dadosabertos/materia/140426,2020-01-31,REQ,,00002,2020,REQ 2/2020 - CMA,Não
+140497,http://legis.senado.gov.br/dadosabertos/materia/140497,2020-02-05,REQ,,00002,2020,REQ 2/2020 - CCJ,Não
+140451,http://legis.senado.gov.br/dadosabertos/materia/140451,2020-02-04,REQ,,00002,2020,REQ 2/2020 - CRE,Sim
+140453,http://legis.senado.gov.br/dadosabertos/materia/140453,2020-02-04,REQ,,00002,2020,REQ 2/2020 - CE,Não
+140435,http://legis.senado.gov.br/dadosabertos/materia/140435,2020-02-03,REQ,,00002,2020,REQ 2/2020 - CDH,Não
+140443,http://legis.senado.gov.br/dadosabertos/materia/140443,2020-02-04,REQ,,00002,2020,REQ 2/2020 - CAS,Não
+140429,http://legis.senado.gov.br/dadosabertos/materia/140429,2020-02-03,REQ,,00003,2020,REQ 3/2020 - CTFC,Sim
+140954,http://legis.senado.gov.br/dadosabertos/materia/140954,2020-03-05,REQ,,00003,2020,REQ 3/2020 - CMCVM,Sim
+140774,http://legis.senado.gov.br/dadosabertos/materia/140774,2020-02-19,REQ,,00003,2020,REQ 3/2020 - CRA,Sim
+140703,http://legis.senado.gov.br/dadosabertos/materia/140703,2020-02-18,REQ,,00003,2020,REQ 3/2020 - CCT,Sim
+140586,http://legis.senado.gov.br/dadosabertos/materia/140586,2019-12-20,REQ,,00003,2020,REQ 3/2020 - CDIR,Sim
+140726,http://legis.senado.gov.br/dadosabertos/materia/140726,2020-02-18,REQ,,00003,2020,REQ 3/2020 - CE,Não
+140783,http://legis.senado.gov.br/dadosabertos/materia/140783,2020-02-19,REQ,,00003,2020,REQ 3/2020 - CDR,Não
+140610,http://legis.senado.gov.br/dadosabertos/materia/140610,2020-02-11,REQ,,00003,2020,REQ 3/2020 - CAE,Sim
+140675,http://legis.senado.gov.br/dadosabertos/materia/140675,2020-02-12,REQ,,00003,2020,REQ 3/2020 - CI,Não
+140498,http://legis.senado.gov.br/dadosabertos/materia/140498,2020-02-05,REQ,,00003,2020,REQ 3/2020 - CCJ,Não
+140454,http://legis.senado.gov.br/dadosabertos/materia/140454,2020-02-04,REQ,,00003,2020,REQ 3/2020 - CRE,Não
+140440,http://legis.senado.gov.br/dadosabertos/materia/140440,2020-02-03,REQ,,00003,2020,REQ 3/2020 - CMA,Não
+140436,http://legis.senado.gov.br/dadosabertos/materia/140436,2020-02-03,REQ,,00003,2020,REQ 3/2020 - CDH,Não
+140514,http://legis.senado.gov.br/dadosabertos/materia/140514,2020-02-05,REQ,,00003,2020,REQ 3/2020 - CAS,Não
+140437,http://legis.senado.gov.br/dadosabertos/materia/140437,2020-02-03,REQ,,00004,2020,REQ 4/2020 - CDH,Não
+140955,http://legis.senado.gov.br/dadosabertos/materia/140955,2020-03-05,REQ,,00004,2020,REQ 4/2020 - CMCVM,Sim
+140845,http://legis.senado.gov.br/dadosabertos/materia/140845,2020-03-02,REQ,,00004,2020,REQ 4/2020 - CDR,Sim
+140727,http://legis.senado.gov.br/dadosabertos/materia/140727,2020-02-18,REQ,,00004,2020,REQ 4/2020 - CE,Não
+140575,http://legis.senado.gov.br/dadosabertos/materia/140575,2020-02-18,REQ,,00004,2020,REQ 4/2020 - CRE,Sim
+140704,http://legis.senado.gov.br/dadosabertos/materia/140704,2020-02-18,REQ,,00004,2020,REQ 4/2020 - CCT,Sim
+140614,http://legis.senado.gov.br/dadosabertos/materia/140614,2020-02-11,REQ,,00004,2020,REQ 4/2020 - CAE,Sim
+140775,http://legis.senado.gov.br/dadosabertos/materia/140775,2020-02-19,REQ,,00004,2020,REQ 4/2020 - CRA,Sim
+140694,http://legis.senado.gov.br/dadosabertos/materia/140694,2020-02-13,REQ,,00004,2020,REQ 4/2020 - CI,Não
+140587,http://legis.senado.gov.br/dadosabertos/materia/140587,2019-12-19,REQ,,00004,2020,REQ 4/2020 - CDIR,Sim
+140515,http://legis.senado.gov.br/dadosabertos/materia/140515,2020-02-13,REQ,,00004,2020,REQ 4/2020 - CAS,Sim
+140499,http://legis.senado.gov.br/dadosabertos/materia/140499,2020-02-05,REQ,,00004,2020,REQ 4/2020 - CCJ,Não
+140444,http://legis.senado.gov.br/dadosabertos/materia/140444,2020-02-04,REQ,,00004,2020,REQ 4/2020 - CTFC,Sim
+140480,http://legis.senado.gov.br/dadosabertos/materia/140480,2020-02-04,REQ,,00004,2020,REQ 4/2020 - CMA,Não
+140500,http://legis.senado.gov.br/dadosabertos/materia/140500,2020-02-05,REQ,,00005,2020,REQ 5/2020 - CCJ,Não
+140802,http://legis.senado.gov.br/dadosabertos/materia/140802,2020-02-20,REQ,,00005,2020,REQ 5/2020 - CI,Não
+140975,http://legis.senado.gov.br/dadosabertos/materia/140975,2020-03-06,REQ,,00005,2020,REQ 5/2020 - CDR,Não
+140821,http://legis.senado.gov.br/dadosabertos/materia/140821,2020-02-21,REQ,,00005,2020,REQ 5/2020 - CE,Sim
+140776,http://legis.senado.gov.br/dadosabertos/materia/140776,2020-02-19,REQ,,00005,2020,REQ 5/2020 - CRA,Sim
+140607,http://legis.senado.gov.br/dadosabertos/materia/140607,2020-02-11,REQ,,00005,2020,REQ 5/2020 - CTFC,Sim
+140571,http://legis.senado.gov.br/dadosabertos/materia/140571,2020-02-06,REQ,,00005,2020,REQ 5/2020 - CMA,Sim
+140573,http://legis.senado.gov.br/dadosabertos/materia/140573,2020-02-06,REQ,,00005,2020,REQ 5/2020 - CAS,Não
+140655,http://legis.senado.gov.br/dadosabertos/materia/140655,2020-02-12,REQ,,00005,2020,REQ 5/2020 - CRE,Não
+140664,http://legis.senado.gov.br/dadosabertos/materia/140664,2020-02-12,REQ,,00005,2020,REQ 5/2020 - CAE,Sim
+140588,http://legis.senado.gov.br/dadosabertos/materia/140588,2020-01-10,REQ,,00005,2020,REQ 5/2020 - CDIR,Sim
+140705,http://legis.senado.gov.br/dadosabertos/materia/140705,2020-02-18,REQ,,00005,2020,REQ 5/2020 - CCT,Sim
+140448,http://legis.senado.gov.br/dadosabertos/materia/140448,2020-02-04,REQ,,00005,2020,REQ 5/2020 - CDH,Não
+140449,http://legis.senado.gov.br/dadosabertos/materia/140449,2020-02-04,REQ,,00006,2020,REQ 6/2020 - CDH,Não
+140828,http://legis.senado.gov.br/dadosabertos/materia/140828,2020-02-27,REQ,,00006,2020,REQ 6/2020 - CI,Não
+140977,http://legis.senado.gov.br/dadosabertos/materia/140977,2020-03-06,REQ,,00006,2020,REQ 6/2020 - CDR,Não
+140829,http://legis.senado.gov.br/dadosabertos/materia/140829,2020-02-27,REQ,,00006,2020,REQ 6/2020 - CE,Não
+140777,http://legis.senado.gov.br/dadosabertos/materia/140777,2020-02-19,REQ,,00006,2020,REQ 6/2020 - CRA,Não
+140719,http://legis.senado.gov.br/dadosabertos/materia/140719,2020-02-18,REQ,,00006,2020,REQ 6/2020 - CAE,Sim
+140608,http://legis.senado.gov.br/dadosabertos/materia/140608,2020-02-11,REQ,,00006,2020,REQ 6/2020 - CTFC,Não
+140656,http://legis.senado.gov.br/dadosabertos/materia/140656,2020-02-12,REQ,,00006,2020,REQ 6/2020 - CRE,Não
+140597,http://legis.senado.gov.br/dadosabertos/materia/140597,2020-02-10,REQ,,00006,2020,REQ 6/2020 - CAS,Não
+140603,http://legis.senado.gov.br/dadosabertos/materia/140603,2020-02-10,REQ,,00006,2020,REQ 6/2020 - CMA,Não
+140706,http://legis.senado.gov.br/dadosabertos/materia/140706,2020-02-18,REQ,,00006,2020,REQ 6/2020 - CCT,Sim
+140589,http://legis.senado.gov.br/dadosabertos/materia/140589,2020-02-04,REQ,,00006,2020,REQ 6/2020 - CDIR,Sim
+140501,http://legis.senado.gov.br/dadosabertos/materia/140501,2020-02-05,REQ,,00006,2020,REQ 6/2020 - CCJ,Não
+140461,http://legis.senado.gov.br/dadosabertos/materia/140461,2020-02-04,REQ,,00007,2020,REQ 7/2020 - CDH,Não
+140847,http://legis.senado.gov.br/dadosabertos/materia/140847,2020-03-02,REQ,,00007,2020,REQ 7/2020 - CI,Não
+140810,http://legis.senado.gov.br/dadosabertos/materia/140810,2020-02-20,REQ,,00007,2020,REQ 7/2020 - CTFC,Sim
+141062,http://legis.senado.gov.br/dadosabertos/materia/141062,2020-03-11,REQ,,00007,2020,REQ 7/2020 - CRA,Sim
+140978,http://legis.senado.gov.br/dadosabertos/materia/140978,2020-03-06,REQ,,00007,2020,REQ 7/2020 - CDR,Não
+140856,http://legis.senado.gov.br/dadosabertos/materia/140856,2020-03-03,REQ,,00007,2020,REQ 7/2020 - CE,Não
+140604,http://legis.senado.gov.br/dadosabertos/materia/140604,2020-02-10,REQ,,00007,2020,REQ 7/2020 - CMA,Não
+140707,http://legis.senado.gov.br/dadosabertos/materia/140707,2020-02-18,REQ,,00007,2020,REQ 7/2020 - CCT,Sim
+140658,http://legis.senado.gov.br/dadosabertos/materia/140658,2020-02-12,REQ,,00007,2020,REQ 7/2020 - CRE,Não
+140590,http://legis.senado.gov.br/dadosabertos/materia/140590,2020-02-05,REQ,,00007,2020,REQ 7/2020 - CDIR,Sim
+140725,http://legis.senado.gov.br/dadosabertos/materia/140725,2020-02-18,REQ,,00007,2020,REQ 7/2020 - CAE,Sim
+140601,http://legis.senado.gov.br/dadosabertos/materia/140601,2020-02-10,REQ,,00007,2020,REQ 7/2020 - CAS,Não
+140502,http://legis.senado.gov.br/dadosabertos/materia/140502,2020-02-05,REQ,,00007,2020,REQ 7/2020 - CCJ,Não
+140567,http://legis.senado.gov.br/dadosabertos/materia/140567,2020-02-06,REQ,,00008,2020,REQ 8/2020 - CDH,Sim
+140860,http://legis.senado.gov.br/dadosabertos/materia/140860,2020-03-03,REQ,,00008,2020,REQ 8/2020 - CE,Sim
+140849,http://legis.senado.gov.br/dadosabertos/materia/140849,2020-03-03,REQ,,00008,2020,REQ 8/2020 - CI,Não
+140979,http://legis.senado.gov.br/dadosabertos/materia/140979,2020-03-06,REQ,,00008,2020,REQ 8/2020 - CDR,Não
+140835,http://legis.senado.gov.br/dadosabertos/materia/140835,2020-02-28,REQ,,00008,2020,REQ 8/2020 - CTFC,Sim
+140693,http://legis.senado.gov.br/dadosabertos/materia/140693,2020-02-13,REQ,,00008,2020,REQ 8/2020 - CRE,Não
+140729,http://legis.senado.gov.br/dadosabertos/materia/140729,2020-02-18,REQ,,00008,2020,REQ 8/2020 - CAE,Sim
+140708,http://legis.senado.gov.br/dadosabertos/materia/140708,2020-02-18,REQ,,00008,2020,REQ 8/2020 - CCT,Sim
+140653,http://legis.senado.gov.br/dadosabertos/materia/140653,2020-02-12,REQ,,00008,2020,REQ 8/2020 - CCJ,Sim
+140605,http://legis.senado.gov.br/dadosabertos/materia/140605,2020-02-10,REQ,,00008,2020,REQ 8/2020 - CMA,Não
+140593,http://legis.senado.gov.br/dadosabertos/materia/140593,2020-02-07,REQ,,00008,2020,REQ 8/2020 - CDIR,Sim
+140647,http://legis.senado.gov.br/dadosabertos/materia/140647,2020-02-12,REQ,,00008,2020,REQ 8/2020 - CAS,Não
+140606,http://legis.senado.gov.br/dadosabertos/materia/140606,2020-02-10,REQ,,00009,2020,REQ 9/2020 - CMA,Não
+141011,http://legis.senado.gov.br/dadosabertos/materia/141011,2020-03-10,REQ,,00009,2020,REQ 9/2020 - CE,Sim
+140859,http://legis.senado.gov.br/dadosabertos/materia/140859,2020-03-03,REQ,,00009,2020,REQ 9/2020 - CI,Não
+141030,http://legis.senado.gov.br/dadosabertos/materia/141030,2020-03-11,REQ,,00009,2020,REQ 9/2020 - CDR,Não
+140836,http://legis.senado.gov.br/dadosabertos/materia/140836,2020-02-28,REQ,,00009,2020,REQ 9/2020 - CTFC,Sim
+140820,http://legis.senado.gov.br/dadosabertos/materia/140820,2020-02-21,REQ,,00009,2020,REQ 9/2020 - CAE,Sim
+140680,http://legis.senado.gov.br/dadosabertos/materia/140680,2020-02-19,REQ,,00009,2020,REQ 9/2020 - CAS,Sim
+140695,http://legis.senado.gov.br/dadosabertos/materia/140695,2020-02-13,REQ,,00009,2020,REQ 9/2020 - CRE,Sim
+140709,http://legis.senado.gov.br/dadosabertos/materia/140709,2020-02-18,REQ,,00009,2020,REQ 9/2020 - CCT,Sim
+140638,http://legis.senado.gov.br/dadosabertos/materia/140638,2020-02-11,REQ,,00009,2020,REQ 9/2020 - CDH,Não
+140779,http://legis.senado.gov.br/dadosabertos/materia/140779,2020-02-19,REQ,,00009,2020,REQ 9/2020 - CCJ,Sim
+140594,http://legis.senado.gov.br/dadosabertos/materia/140594,2020-02-10,REQ,,00009,2020,REQ 9/2020 - CDIR,Sim
+140768,http://legis.senado.gov.br/dadosabertos/materia/140768,2020-02-19,REQ,,00010,2020,REQ 10/2020 - CAS,Não
+141014,http://legis.senado.gov.br/dadosabertos/materia/141014,2020-03-10,REQ,,00010,2020,REQ 10/2020 - CE,Sim
+140913,http://legis.senado.gov.br/dadosabertos/materia/140913,2020-03-04,REQ,,00010,2020,REQ 10/2020 - CCJ,Sim
+140837,http://legis.senado.gov.br/dadosabertos/materia/140837,2020-02-28,REQ,,00010,2020,REQ 10/2020 - CTFC,Não
+140992,http://legis.senado.gov.br/dadosabertos/materia/140992,2020-03-09,REQ,,00010,2020,REQ 10/2020 - CI,Sim
+141031,http://legis.senado.gov.br/dadosabertos/materia/141031,2020-03-11,REQ,,00010,2020,REQ 10/2020 - CDR,Não
+140823,http://legis.senado.gov.br/dadosabertos/materia/140823,2020-02-21,REQ,,00010,2020,REQ 10/2020 - CAE,Sim
+140595,http://legis.senado.gov.br/dadosabertos/materia/140595,2020-02-10,REQ,,00010,2020,REQ 10/2020 - CDIR,Sim
+140710,http://legis.senado.gov.br/dadosabertos/materia/140710,2020-02-14,REQ,,00010,2020,REQ 10/2020 - CCT,Sim
+140752,http://legis.senado.gov.br/dadosabertos/materia/140752,2020-02-18,REQ,,00010,2020,REQ 10/2020 - CRE,Sim
+140716,http://legis.senado.gov.br/dadosabertos/materia/140716,2020-02-17,REQ,,00010,2020,REQ 10/2020 - CDH,Não
+140615,http://legis.senado.gov.br/dadosabertos/materia/140615,2020-02-11,REQ,,00010,2020,REQ 10/2020 - CMA,Sim
+140617,http://legis.senado.gov.br/dadosabertos/materia/140617,2020-02-11,REQ,,00011,2020,REQ 11/2020 - CMA,Sim
+140914,http://legis.senado.gov.br/dadosabertos/materia/140914,2020-03-04,REQ,,00011,2020,REQ 11/2020 - CCJ,Sim
+140806,http://legis.senado.gov.br/dadosabertos/materia/140806,2020-02-20,REQ,,00011,2020,REQ 11/2020 - CRE,Sim
+141032,http://legis.senado.gov.br/dadosabertos/materia/141032,2020-03-12,REQ,,00011,2020,REQ 11/2020 - CDR,Sim
+141012,http://legis.senado.gov.br/dadosabertos/materia/141012,2020-03-10,REQ,,00011,2020,REQ 11/2020 - CI,Não
+140848,http://legis.senado.gov.br/dadosabertos/materia/140848,2020-03-03,REQ,,00011,2020,REQ 11/2020 - CAE,Sim
+140838,http://legis.senado.gov.br/dadosabertos/materia/140838,2020-02-28,REQ,,00011,2020,REQ 11/2020 - CTFC,Sim
+141015,http://legis.senado.gov.br/dadosabertos/materia/141015,2020-03-10,REQ,,00011,2020,REQ 11/2020 - CE,Sim
+140596,http://legis.senado.gov.br/dadosabertos/materia/140596,2020-02-10,REQ,,00011,2020,REQ 11/2020 - CDIR,Sim
+140711,http://legis.senado.gov.br/dadosabertos/materia/140711,2020-02-17,REQ,,00011,2020,REQ 11/2020 - CCT,Sim
+140769,http://legis.senado.gov.br/dadosabertos/materia/140769,2020-02-19,REQ,,00011,2020,REQ 11/2020 - CAS,Não
+140724,http://legis.senado.gov.br/dadosabertos/materia/140724,2020-02-18,REQ,,00011,2020,REQ 11/2020 - CDH,Não
+140641,http://legis.senado.gov.br/dadosabertos/materia/140641,2020-02-11,REQ,,00012,2020,REQ 12/2020 - CDIR,Sim
+141080,http://legis.senado.gov.br/dadosabertos/materia/141080,2020-03-11,REQ,,00012,2020,REQ 12/2020 - CDR,Sim
+140839,http://legis.senado.gov.br/dadosabertos/materia/140839,2020-02-28,REQ,,00012,2020,REQ 12/2020 - CTFC,Sim
+140863,http://legis.senado.gov.br/dadosabertos/materia/140863,2020-03-03,REQ,,00012,2020,REQ 12/2020 - CAE,Sim
+140827,http://legis.senado.gov.br/dadosabertos/materia/140827,2020-02-21,REQ,,00012,2020,REQ 12/2020 - CDH,Não
+140915,http://legis.senado.gov.br/dadosabertos/materia/140915,2020-03-04,REQ,,00012,2020,REQ 12/2020 - CCJ,Sim
+140844,http://legis.senado.gov.br/dadosabertos/materia/140844,2020-03-02,REQ,,00012,2020,REQ 12/2020 - CRE,Sim
+141016,http://legis.senado.gov.br/dadosabertos/materia/141016,2020-03-10,REQ,,00012,2020,REQ 12/2020 - CE,Sim
+140771,http://legis.senado.gov.br/dadosabertos/materia/140771,2020-02-19,REQ,,00012,2020,REQ 12/2020 - CAS,Não
+140788,http://legis.senado.gov.br/dadosabertos/materia/140788,2020-02-19,REQ,,00012,2020,REQ 12/2020 - CMA,Sim
+140712,http://legis.senado.gov.br/dadosabertos/materia/140712,2020-02-17,REQ,,00012,2020,REQ 12/2020 - CCT,Sim
+140723,http://legis.senado.gov.br/dadosabertos/materia/140723,2020-02-18,REQ,,00013,2020,REQ 13/2020 - CCT,Sim
+140916,http://legis.senado.gov.br/dadosabertos/materia/140916,2020-03-04,REQ,,00013,2020,REQ 13/2020 - CCJ,Sim
+140843,http://legis.senado.gov.br/dadosabertos/materia/140843,2020-03-02,REQ,,00013,2020,REQ 13/2020 - CTFC,Sim
+140861,http://legis.senado.gov.br/dadosabertos/materia/140861,2020-03-03,REQ,,00013,2020,REQ 13/2020 - CRE,Sim
+140809,http://legis.senado.gov.br/dadosabertos/materia/140809,2020-02-20,REQ,,00013,2020,REQ 13/2020 - CMA,Sim
+141018,http://legis.senado.gov.br/dadosabertos/materia/141018,2020-03-10,REQ,,00013,2020,REQ 13/2020 - CE,Sim
+141010,http://legis.senado.gov.br/dadosabertos/materia/141010,2020-03-10,REQ,,00013,2020,REQ 13/2020 - CAE,Não
+140961,http://legis.senado.gov.br/dadosabertos/materia/140961,2020-03-05,REQ,,00013,2020,REQ 13/2020 - CDH,Sim
+140645,http://legis.senado.gov.br/dadosabertos/materia/140645,2020-02-12,REQ,,00013,2020,REQ 13/2020 - CDIR,Sim
+140795,http://legis.senado.gov.br/dadosabertos/materia/140795,2020-02-19,REQ,,00013,2020,REQ 13/2020 - CAS,Não
+140670,http://legis.senado.gov.br/dadosabertos/materia/140670,2020-02-12,REQ,,00014,2020,REQ 14/2020 - CDIR,Sim
+141082,http://legis.senado.gov.br/dadosabertos/materia/141082,2020-03-12,REQ,,00014,2020,REQ 14/2020 - CE,Sim
+140826,http://legis.senado.gov.br/dadosabertos/materia/140826,2020-02-21,REQ,,00014,2020,REQ 14/2020 - CMA,Sim
+140865,http://legis.senado.gov.br/dadosabertos/materia/140865,2020-03-03,REQ,,00014,2020,REQ 14/2020 - CTFC,Não
+140932,http://legis.senado.gov.br/dadosabertos/materia/140932,2020-03-04,REQ,,00014,2020,REQ 14/2020 - CRE,Sim
+140917,http://legis.senado.gov.br/dadosabertos/materia/140917,2020-03-03,REQ,,00014,2020,REQ 14/2020 - CCJ,Sim
+140805,http://legis.senado.gov.br/dadosabertos/materia/140805,2020-02-20,REQ,,00014,2020,REQ 14/2020 - CAS,Sim
+141013,http://legis.senado.gov.br/dadosabertos/materia/141013,2020-03-10,REQ,,00014,2020,REQ 14/2020 - CAE,Não
+140803,http://legis.senado.gov.br/dadosabertos/materia/140803,2020-02-20,REQ,,00014,2020,REQ 14/2020 - CCT,Sim
+140967,http://legis.senado.gov.br/dadosabertos/materia/140967,2020-03-06,REQ,,00014,2020,REQ 14/2020 - CDH,Sim
+140470,http://legis.senado.gov.br/dadosabertos/materia/140470,2020-02-04,REQ,,00015,2020,REQ 15/2020 - MPV 905/2019,Sim
+140855,http://legis.senado.gov.br/dadosabertos/materia/140855,2020-03-03,REQ,,00015,2020,REQ 15/2020 - CMA,Sim
+140963,http://legis.senado.gov.br/dadosabertos/materia/140963,2020-03-05,REQ,,00015,2020,REQ 15/2020 - CRE,Sim
+141017,http://legis.senado.gov.br/dadosabertos/materia/141017,2020-03-10,REQ,,00015,2020,REQ 15/2020 - CAE,Não
+140918,http://legis.senado.gov.br/dadosabertos/materia/140918,2020-03-04,REQ,,00015,2020,REQ 15/2020 - CCJ,Sim
+140832,http://legis.senado.gov.br/dadosabertos/materia/140832,2020-02-28,REQ,,00015,2020,REQ 15/2020 - CAS,Não
+140968,http://legis.senado.gov.br/dadosabertos/materia/140968,2020-03-06,REQ,,00015,2020,REQ 15/2020 - CDH,Sim
+140812,http://legis.senado.gov.br/dadosabertos/materia/140812,2020-03-02,REQ,,00015,2020,REQ 15/2020 - CCT,Sim
+140676,http://legis.senado.gov.br/dadosabertos/materia/140676,2020-02-13,REQ,,00015,2020,REQ 15/2020 - CDIR,Sim
+140699,http://legis.senado.gov.br/dadosabertos/materia/140699,2020-02-14,REQ,,00016,2020,REQ 16/2020 - CDIR,Não
+140833,http://legis.senado.gov.br/dadosabertos/materia/140833,2020-02-28,REQ,,00016,2020,REQ 16/2020 - CAS,Não
+140813,http://legis.senado.gov.br/dadosabertos/materia/140813,2020-03-02,REQ,,00016,2020,REQ 16/2020 - CCT,Sim
+141025,http://legis.senado.gov.br/dadosabertos/materia/141025,2020-03-10,REQ,,00016,2020,REQ 16/2020 - CRE,Sim
+141019,http://legis.senado.gov.br/dadosabertos/materia/141019,2020-03-10,REQ,,00016,2020,REQ 16/2020 - CAE,Não
+140919,http://legis.senado.gov.br/dadosabertos/materia/140919,2020-03-04,REQ,,00016,2020,REQ 16/2020 - CCJ,Sim
+140969,http://legis.senado.gov.br/dadosabertos/materia/140969,2020-03-06,REQ,,00016,2020,REQ 16/2020 - CDH,Sim
+140858,http://legis.senado.gov.br/dadosabertos/materia/140858,2020-03-03,REQ,,00016,2020,REQ 16/2020 - CMA,Sim
+140700,http://legis.senado.gov.br/dadosabertos/materia/140700,2020-02-14,REQ,,00017,2020,REQ 17/2020 - CDIR,Não
+141026,http://legis.senado.gov.br/dadosabertos/materia/141026,2020-03-10,REQ,,00017,2020,REQ 17/2020 - CAE,Sim
+140815,http://legis.senado.gov.br/dadosabertos/materia/140815,2020-03-02,REQ,,00017,2020,REQ 17/2020 - CCT,Sim
+140920,http://legis.senado.gov.br/dadosabertos/materia/140920,2020-03-04,REQ,,00017,2020,REQ 17/2020 - CCJ,Sim
+140853,http://legis.senado.gov.br/dadosabertos/materia/140853,2020-03-03,REQ,,00017,2020,REQ 17/2020 - CAS,Sim
+141021,http://legis.senado.gov.br/dadosabertos/materia/141021,2020-03-10,REQ,,00017,2020,REQ 17/2020 - CMA,Sim
+140970,http://legis.senado.gov.br/dadosabertos/materia/140970,2020-03-06,REQ,,00017,2020,REQ 17/2020 - CDH,Sim
+140701,http://legis.senado.gov.br/dadosabertos/materia/140701,2020-02-18,REQ,,00018,2020,REQ 18/2020 - CDIR,Não
+141099,http://legis.senado.gov.br/dadosabertos/materia/141099,2020-03-12,REQ,,00018,2020,REQ 18/2020 - CAE,Sim
+140816,http://legis.senado.gov.br/dadosabertos/materia/140816,2020-03-02,REQ,,00018,2020,REQ 18/2020 - CCT,Sim
+140870,http://legis.senado.gov.br/dadosabertos/materia/140870,2020-03-03,REQ,,00018,2020,REQ 18/2020 - CAS,Sim
+141060,http://legis.senado.gov.br/dadosabertos/materia/141060,2020-03-11,REQ,,00018,2020,REQ 18/2020 - CMA,Sim
+140921,http://legis.senado.gov.br/dadosabertos/materia/140921,2020-03-04,REQ,,00018,2020,REQ 18/2020 - CCJ,Sim
+140971,http://legis.senado.gov.br/dadosabertos/materia/140971,2020-03-06,REQ,,00018,2020,REQ 18/2020 - CDH,Sim
+140702,http://legis.senado.gov.br/dadosabertos/materia/140702,2020-02-18,REQ,,00019,2020,REQ 19/2020 - CDIR,Não
+140923,http://legis.senado.gov.br/dadosabertos/materia/140923,2020-03-04,REQ,,00019,2020,REQ 19/2020 - CCJ,Sim
+141061,http://legis.senado.gov.br/dadosabertos/materia/141061,2020-03-11,REQ,,00019,2020,REQ 19/2020 - CMA,Sim
+141053,http://legis.senado.gov.br/dadosabertos/materia/141053,2020-03-11,REQ,,00019,2020,REQ 19/2020 - CCT,Sim
+140972,http://legis.senado.gov.br/dadosabertos/materia/140972,2020-03-06,REQ,,00019,2020,REQ 19/2020 - CDH,Sim
+140871,http://legis.senado.gov.br/dadosabertos/materia/140871,2020-03-03,REQ,,00019,2020,REQ 19/2020 - CAS,Sim
+140715,http://legis.senado.gov.br/dadosabertos/materia/140715,2020-02-18,REQ,,00020,2020,REQ 20/2020 - CDIR,Não
+141086,http://legis.senado.gov.br/dadosabertos/materia/141086,2020-03-11,REQ,,00020,2020,REQ 20/2020 - CCT,Sim
+141081,http://legis.senado.gov.br/dadosabertos/materia/141081,2020-03-12,REQ,,00020,2020,REQ 20/2020 - CMA,Sim
+140924,http://legis.senado.gov.br/dadosabertos/materia/140924,2020-03-04,REQ,,00020,2020,REQ 20/2020 - CCJ,Sim
+140874,http://legis.senado.gov.br/dadosabertos/materia/140874,2020-03-03,REQ,,00020,2020,REQ 20/2020 - CAS,Não
+140973,http://legis.senado.gov.br/dadosabertos/materia/140973,2020-03-06,REQ,,00020,2020,REQ 20/2020 - CDH,Sim
+140720,http://legis.senado.gov.br/dadosabertos/materia/140720,2020-02-18,REQ,,00021,2020,REQ 21/2020 - CDIR,Sim
+141088,http://legis.senado.gov.br/dadosabertos/materia/141088,2020-03-11,REQ,,00021,2020,REQ 21/2020 - CCT,Sim
+140879,http://legis.senado.gov.br/dadosabertos/materia/140879,2020-03-04,REQ,,00021,2020,REQ 21/2020 - CAS,Não
+140925,http://legis.senado.gov.br/dadosabertos/materia/140925,2020-03-04,REQ,,00021,2020,REQ 21/2020 - CCJ,Sim
+141027,http://legis.senado.gov.br/dadosabertos/materia/141027,2020-03-10,REQ,,00021,2020,REQ 21/2020 - CDH,Sim
+140721,http://legis.senado.gov.br/dadosabertos/materia/140721,2020-02-18,REQ,,00022,2020,REQ 22/2020 - CDIR,Não
+140926,http://legis.senado.gov.br/dadosabertos/materia/140926,2020-03-04,REQ,,00022,2020,REQ 22/2020 - CCJ,Sim
+140949,http://legis.senado.gov.br/dadosabertos/materia/140949,2020-03-04,REQ,,00022,2020,REQ 22/2020 - CAS,Não
+141037,http://legis.senado.gov.br/dadosabertos/materia/141037,2020-03-11,REQ,,00022,2020,REQ 22/2020 - CDH,Sim
+140722,http://legis.senado.gov.br/dadosabertos/materia/140722,2020-02-18,REQ,,00023,2020,REQ 23/2020 - CDIR,Sim
+141083,http://legis.senado.gov.br/dadosabertos/materia/141083,2020-03-12,REQ,,00023,2020,REQ 23/2020 - CDH,Sim
+141022,http://legis.senado.gov.br/dadosabertos/materia/141022,2020-03-10,REQ,,00023,2020,REQ 23/2020 - CCJ,Sim
+140959,http://legis.senado.gov.br/dadosabertos/materia/140959,2020-03-05,REQ,,00023,2020,REQ 23/2020 - CAS,Não
+140728,http://legis.senado.gov.br/dadosabertos/materia/140728,2020-02-18,REQ,,00024,2020,REQ 24/2020 - CDIR,Sim
+141063,http://legis.senado.gov.br/dadosabertos/materia/141063,2020-03-11,REQ,,00024,2020,REQ 24/2020 - CCJ,Sim
+141009,http://legis.senado.gov.br/dadosabertos/materia/141009,2020-03-10,REQ,,00024,2020,REQ 24/2020 - CAS,Sim
+140745,http://legis.senado.gov.br/dadosabertos/materia/140745,2020-02-18,REQ,,00025,2020,REQ 25/2020 - CDIR,Sim
+141065,http://legis.senado.gov.br/dadosabertos/materia/141065,2020-03-11,REQ,,00025,2020,REQ 25/2020 - CCJ,Sim
+141059,http://legis.senado.gov.br/dadosabertos/materia/141059,2020-03-11,REQ,,00025,2020,REQ 25/2020 - CAS,Sim
+140755,http://legis.senado.gov.br/dadosabertos/materia/140755,2020-02-18,REQ,,00026,2020,REQ 26/2020 - CDIR,Sim
+141071,http://legis.senado.gov.br/dadosabertos/materia/141071,2020-03-11,REQ,,00026,2020,REQ 26/2020 - CAS,Sim
+141066,http://legis.senado.gov.br/dadosabertos/materia/141066,2020-03-11,REQ,,00026,2020,REQ 26/2020 - CCJ,Sim
+140756,http://legis.senado.gov.br/dadosabertos/materia/140756,2020-02-18,REQ,,00027,2020,REQ 27/2020 - CDIR,Sim
+141072,http://legis.senado.gov.br/dadosabertos/materia/141072,2020-03-11,REQ,,00027,2020,REQ 27/2020 - CAS,Sim
+141069,http://legis.senado.gov.br/dadosabertos/materia/141069,2020-03-11,REQ,,00027,2020,REQ 27/2020 - CCJ,Sim
+140757,http://legis.senado.gov.br/dadosabertos/materia/140757,2020-02-18,REQ,,00028,2020,REQ 28/2020 - CDIR,Sim
+141073,http://legis.senado.gov.br/dadosabertos/materia/141073,2020-03-11,REQ,,00028,2020,REQ 28/2020 - CAS,Sim
+140758,http://legis.senado.gov.br/dadosabertos/materia/140758,2020-02-18,REQ,,00029,2020,REQ 29/2020 - CDIR,Sim
+141074,http://legis.senado.gov.br/dadosabertos/materia/141074,2020-03-11,REQ,,00029,2020,REQ 29/2020 - CAS,Sim
+140767,http://legis.senado.gov.br/dadosabertos/materia/140767,2020-02-19,REQ,,00030,2020,REQ 30/2020 - CDIR,Não
+140796,http://legis.senado.gov.br/dadosabertos/materia/140796,2020-02-20,REQ,,00031,2020,REQ 31/2020 - CDIR,Não
+140822,http://legis.senado.gov.br/dadosabertos/materia/140822,2020-02-21,REQ,,00032,2020,REQ 32/2020 - CDIR,Sim
+140830,http://legis.senado.gov.br/dadosabertos/materia/140830,2020-03-04,REQ,,00033,2020,REQ 33/2020 - CDIR,Não
+140831,http://legis.senado.gov.br/dadosabertos/materia/140831,2020-03-04,REQ,,00034,2020,REQ 34/2020 - CDIR,Não
+140841,http://legis.senado.gov.br/dadosabertos/materia/140841,2020-02-28,REQ,,00035,2020,REQ 35/2020 - CDIR,Sim
+140866,http://legis.senado.gov.br/dadosabertos/materia/140866,2020-03-03,REQ,,00036,2020,REQ 36/2020 - CDIR,Sim
+140878,http://legis.senado.gov.br/dadosabertos/materia/140878,2020-02-19,REQ,,00037,2020,REQ 37/2020 - CDIR,Sim
+140881,http://legis.senado.gov.br/dadosabertos/materia/140881,2020-03-04,REQ,,00038,2020,REQ 38/2020 - CDIR,Não
+140891,http://legis.senado.gov.br/dadosabertos/materia/140891,2020-03-04,REQ,,00039,2020,REQ 39/2020 - CDIR,Não
+140904,http://legis.senado.gov.br/dadosabertos/materia/140904,2020-03-04,REQ,,00040,2020,REQ 40/2020 - CDIR,Sim
+140928,http://legis.senado.gov.br/dadosabertos/materia/140928,2020-03-04,REQ,,00041,2020,REQ 41/2020 - CDIR,Sim
+140980,http://legis.senado.gov.br/dadosabertos/materia/140980,2020-03-06,REQ,,00042,2020,REQ 42/2020 - CDIR,Sim
+141064,http://legis.senado.gov.br/dadosabertos/materia/141064,2020-03-11,REQ,,00043,2020,REQ 43/2020 - CDIR,Sim
+141100,http://legis.senado.gov.br/dadosabertos/materia/141100,2020-03-13,REQ,,00044,2020,REQ 44/2020 - CDIR,Sim
+141237,http://legis.senado.gov.br/dadosabertos/materia/141237,2020-03-27,REQ,,00045,2020,REQ 45/2020 - CDIR,Sim
+141103,http://legis.senado.gov.br/dadosabertos/materia/141103,2020-03-13,REQ,,00046,2020,REQ 46/2020 - CDIR,Sim
+141228,http://legis.senado.gov.br/dadosabertos/materia/141228,2020-03-27,REQ,,00047,2020,REQ 47/2020 - CDIR,Sim
+141229,http://legis.senado.gov.br/dadosabertos/materia/141229,2020-03-27,REQ,,00048,2020,REQ 48/2020 - CDIR,Sim
+141230,http://legis.senado.gov.br/dadosabertos/materia/141230,2020-03-27,REQ,,00049,2020,REQ 49/2020 - CDIR,Sim
+141076,http://legis.senado.gov.br/dadosabertos/materia/141076,2020-03-11,REQ,,00059,2020,REQ 59/2020 - CM-ReformaTributária,Sim
+141077,http://legis.senado.gov.br/dadosabertos/materia/141077,2020-03-11,REQ,,00060,2020,REQ 60/2020 - CM-ReformaTributária,Sim
+141078,http://legis.senado.gov.br/dadosabertos/materia/141078,2020-03-11,REQ,,00061,2020,REQ 61/2020 - CM-ReformaTributária,Sim
+141079,http://legis.senado.gov.br/dadosabertos/materia/141079,2020-03-11,REQ,,00062,2020,REQ 62/2020 - CM-ReformaTributária,Sim
+141020,http://legis.senado.gov.br/dadosabertos/materia/141020,2020-03-10,REQ,,00067,2020,REQ 67/2020 - MPV 905/2019,Sim
+140804,http://legis.senado.gov.br/dadosabertos/materia/140804,2020-02-19,REQ,,00343,2020,REQ 343/2020 - CPMI - Fake News,Sim
+140682,http://legis.senado.gov.br/dadosabertos/materia/140682,2020-02-12,RQN,,00001,2020,RQN 1/2020,Não
+140684,http://legis.senado.gov.br/dadosabertos/materia/140684,2020-02-12,RQN,,00002,2020,RQN 2/2020,Não
+140824,http://legis.senado.gov.br/dadosabertos/materia/140824,2020-02-12,RQN,,00003,2020,RQN 3/2020,Não
+140685,http://legis.senado.gov.br/dadosabertos/materia/140685,2020-02-12,RQN,,00004,2020,RQN 4/2020,Não
+140692,http://legis.senado.gov.br/dadosabertos/materia/140692,2020-02-12,RQN,,00005,2020,RQN 5/2020,Não
+140687,http://legis.senado.gov.br/dadosabertos/materia/140687,2020-02-12,RQN,,00006,2020,RQN 6/2020,Não
+140688,http://legis.senado.gov.br/dadosabertos/materia/140688,2020-02-12,RQN,,00007,2020,RQN 7/2020,Não
+140689,http://legis.senado.gov.br/dadosabertos/materia/140689,2020-02-12,RQN,,00008,2020,RQN 8/2020,Não
+140690,http://legis.senado.gov.br/dadosabertos/materia/140690,2020-02-12,RQN,,00009,2020,RQN 9/2020,Não
+140691,http://legis.senado.gov.br/dadosabertos/materia/140691,2020-02-12,RQN,,00010,2020,RQN 10/2020,Não
+140880,http://legis.senado.gov.br/dadosabertos/materia/140880,2020-03-03,RQN,,00011,2020,RQN 11/2020,Não
+140882,http://legis.senado.gov.br/dadosabertos/materia/140882,2020-03-03,RQN,,00012,2020,RQN 12/2020,Não
+140886,http://legis.senado.gov.br/dadosabertos/materia/140886,2020-03-03,RQN,,00013,2020,RQN 13/2020,Não
+140887,http://legis.senado.gov.br/dadosabertos/materia/140887,2020-03-03,RQN,,00014,2020,RQN 14/2020,Não
+140893,http://legis.senado.gov.br/dadosabertos/materia/140893,2020-03-03,RQN,,00015,2020,RQN 15/2020,Não
+140894,http://legis.senado.gov.br/dadosabertos/materia/140894,2020-03-03,RQN,,00016,2020,RQN 16/2020,Não
+140896,http://legis.senado.gov.br/dadosabertos/materia/140896,2020-03-03,RQN,,00017,2020,RQN 17/2020,Não
+140898,http://legis.senado.gov.br/dadosabertos/materia/140898,2020-03-03,RQN,,00018,2020,RQN 18/2020,Não
+140900,http://legis.senado.gov.br/dadosabertos/materia/140900,2020-03-03,RQN,,00019,2020,RQN 19/2020,Não
+140901,http://legis.senado.gov.br/dadosabertos/materia/140901,2020-03-03,RQN,,00020,2020,RQN 20/2020,Não
+140902,http://legis.senado.gov.br/dadosabertos/materia/140902,2020-03-03,RQN,,00021,2020,RQN 21/2020,Não
+140883,http://legis.senado.gov.br/dadosabertos/materia/140883,2020-03-03,RQN,,00022,2020,RQN 22/2020,Não
+140884,http://legis.senado.gov.br/dadosabertos/materia/140884,2020-03-03,RQN,,00023,2020,RQN 23/2020,Não
+140885,http://legis.senado.gov.br/dadosabertos/materia/140885,2020-03-03,RQN,,00024,2020,RQN 24/2020,Não
+140953,http://legis.senado.gov.br/dadosabertos/materia/140953,2020-03-04,RQN,,00025,2020,RQN 25/2020,Não
+141042,http://legis.senado.gov.br/dadosabertos/materia/141042,2020-03-10,RQN,,00026,2020,RQN 26/2020,Não
+141045,http://legis.senado.gov.br/dadosabertos/materia/141045,2020-03-10,RQN,,00027,2020,RQN 27/2020,Não
+141043,http://legis.senado.gov.br/dadosabertos/materia/141043,2020-03-10,RQN,,00028,2020,RQN 28/2020,Não
+141046,http://legis.senado.gov.br/dadosabertos/materia/141046,2020-03-10,RQN,,00029,2020,RQN 29/2020,Não
+141047,http://legis.senado.gov.br/dadosabertos/materia/141047,2020-03-10,RQN,,00030,2020,RQN 30/2020,Não
+141039,http://legis.senado.gov.br/dadosabertos/materia/141039,2020-03-10,RQN,,00031,2020,RQN 31/2020,Não
+141048,http://legis.senado.gov.br/dadosabertos/materia/141048,2020-03-10,RQN,,00032,2020,RQN 32/2020,Não
+141051,http://legis.senado.gov.br/dadosabertos/materia/141051,2020-03-10,RQN,,00033,2020,RQN 33/2020,Não
+141055,http://legis.senado.gov.br/dadosabertos/materia/141055,2020-03-10,RQN,,00034,2020,RQN 34/2020,Não
+141054,http://legis.senado.gov.br/dadosabertos/materia/141054,2020-03-10,RQN,,00035,2020,RQN 35/2020,Não
+141049,http://legis.senado.gov.br/dadosabertos/materia/141049,2020-03-10,RQN,,00036,2020,RQN 36/2020,Não
+141033,http://legis.senado.gov.br/dadosabertos/materia/141033,2020-03-10,RQN,,00037,2020,RQN 37/2020,Não
+141034,http://legis.senado.gov.br/dadosabertos/materia/141034,2020-03-10,RQN,,00038,2020,RQN 38/2020,Não
+141035,http://legis.senado.gov.br/dadosabertos/materia/141035,2020-03-10,RQN,,00039,2020,RQN 39/2020,Não
+141036,http://legis.senado.gov.br/dadosabertos/materia/141036,2020-03-10,RQN,,00040,2020,RQN 40/2020,Não
+141038,http://legis.senado.gov.br/dadosabertos/materia/141038,2020-03-10,RQN,,00041,2020,RQN 41/2020,Não
+141040,http://legis.senado.gov.br/dadosabertos/materia/141040,2020-03-10,RQN,,00042,2020,RQN 42/2020,Não
+141041,http://legis.senado.gov.br/dadosabertos/materia/141041,2020-03-10,RQN,,00043,2020,RQN 43/2020,Não
+141044,http://legis.senado.gov.br/dadosabertos/materia/141044,2020-03-10,RQN,,00044,2020,RQN 44/2020,Não
+141050,http://legis.senado.gov.br/dadosabertos/materia/141050,2020-03-10,RQN,,00045,2020,RQN 45/2020,Não
+141052,http://legis.senado.gov.br/dadosabertos/materia/141052,2020-03-10,RQN,,00046,2020,RQN 46/2020,Não
+141056,http://legis.senado.gov.br/dadosabertos/materia/141056,2020-03-10,RQN,,00047,2020,RQN 47/2020,Não
+141057,http://legis.senado.gov.br/dadosabertos/materia/141057,2020-03-10,RQN,,00048,2020,RQN 48/2020,Não
+141087,http://legis.senado.gov.br/dadosabertos/materia/141087,2020-03-10,RQN,,00049,2020,RQN 49/2020,Sim
+140419,http://legis.senado.gov.br/dadosabertos/materia/140419,2019-12-17,RQS,,00001,2020,RQS 1/2020,Não
+140420,http://legis.senado.gov.br/dadosabertos/materia/140420,2020-02-04,RQS,,00002,2020,RQS 2/2020,Sim
+140421,http://legis.senado.gov.br/dadosabertos/materia/140421,2020-02-04,RQS,,00003,2020,RQS 3/2020,Sim
+140434,http://legis.senado.gov.br/dadosabertos/materia/140434,2020-02-04,RQS,,00004,2020,RQS 4/2020,Não
+140438,http://legis.senado.gov.br/dadosabertos/materia/140438,2020-02-05,RQS,,00005,2020,RQS 5/2020,Sim
+140439,http://legis.senado.gov.br/dadosabertos/materia/140439,2020-02-11,RQS,,00006,2020,RQS 6/2020,Sim
+140442,http://legis.senado.gov.br/dadosabertos/materia/140442,2020-02-04,RQS,,00007,2020,RQS 7/2020,Não
+140445,http://legis.senado.gov.br/dadosabertos/materia/140445,2020-02-04,RQS,,00008,2020,RQS 8/2020,Não
+140446,http://legis.senado.gov.br/dadosabertos/materia/140446,2020-02-04,RQS,,00009,2020,RQS 9/2020,Não
+140447,http://legis.senado.gov.br/dadosabertos/materia/140447,2020-02-04,RQS,,00010,2020,RQS 10/2020,Sim
+140450,http://legis.senado.gov.br/dadosabertos/materia/140450,2020-02-05,RQS,,00011,2020,RQS 11/2020,Sim
+140455,http://legis.senado.gov.br/dadosabertos/materia/140455,2020-02-04,RQS,,00012,2020,RQS 12/2020,Não
+140466,http://legis.senado.gov.br/dadosabertos/materia/140466,2020-02-04,RQS,,00013,2020,RQS 13/2020,Não
+140467,http://legis.senado.gov.br/dadosabertos/materia/140467,2020-02-04,RQS,,00014,2020,RQS 14/2020,Não
+140473,http://legis.senado.gov.br/dadosabertos/materia/140473,2020-02-04,RQS,,00015,2020,RQS 15/2020,Não
+140474,http://legis.senado.gov.br/dadosabertos/materia/140474,2020-02-04,RQS,,00016,2020,RQS 16/2020,Sim
+140479,http://legis.senado.gov.br/dadosabertos/materia/140479,2020-02-05,RQS,,00017,2020,RQS 17/2020,Não
+140485,http://legis.senado.gov.br/dadosabertos/materia/140485,2020-02-04,RQS,,00018,2020,RQS 18/2020,Não
+140486,http://legis.senado.gov.br/dadosabertos/materia/140486,2020-02-05,RQS,,00019,2020,RQS 19/2020,Não
+140487,http://legis.senado.gov.br/dadosabertos/materia/140487,2020-02-04,RQS,,00020,2020,RQS 20/2020,Não
+140495,http://legis.senado.gov.br/dadosabertos/materia/140495,2020-02-05,RQS,,00021,2020,RQS 21/2020,Sim
+140511,http://legis.senado.gov.br/dadosabertos/materia/140511,2020-02-05,RQS,,00022,2020,RQS 22/2020,Sim
+140513,http://legis.senado.gov.br/dadosabertos/materia/140513,2020-02-05,RQS,,00023,2020,RQS 23/2020,Não
+140518,http://legis.senado.gov.br/dadosabertos/materia/140518,2020-02-05,RQS,,00024,2020,RQS 24/2020,Sim
+140520,http://legis.senado.gov.br/dadosabertos/materia/140520,2020-02-05,RQS,,00025,2020,RQS 25/2020,Não
+140521,http://legis.senado.gov.br/dadosabertos/materia/140521,2020-02-11,RQS,,00026,2020,RQS 26/2020,Não
+140527,http://legis.senado.gov.br/dadosabertos/materia/140527,2020-02-05,RQS,,00027,2020,RQS 27/2020,Não
+140529,http://legis.senado.gov.br/dadosabertos/materia/140529,2020-02-05,RQS,,00028,2020,RQS 28/2020,Não
+140536,http://legis.senado.gov.br/dadosabertos/materia/140536,2020-02-05,RQS,,00029,2020,RQS 29/2020,Não
+140538,http://legis.senado.gov.br/dadosabertos/materia/140538,2020-02-05,RQS,,00030,2020,RQS 30/2020,Não
+140540,http://legis.senado.gov.br/dadosabertos/materia/140540,2020-02-05,RQS,,00031,2020,RQS 31/2020,Não
+140542,http://legis.senado.gov.br/dadosabertos/materia/140542,2020-02-05,RQS,,00032,2020,RQS 32/2020,Não
+140543,http://legis.senado.gov.br/dadosabertos/materia/140543,2020-02-05,RQS,,00033,2020,RQS 33/2020,Não
+140544,http://legis.senado.gov.br/dadosabertos/materia/140544,2020-02-05,RQS,,00034,2020,RQS 34/2020,Não
+140545,http://legis.senado.gov.br/dadosabertos/materia/140545,2020-02-10,RQS,,00035,2020,RQS 35/2020,Não
+140574,http://legis.senado.gov.br/dadosabertos/materia/140574,2020-02-11,RQS,,00036,2020,RQS 36/2020,Não
+140577,http://legis.senado.gov.br/dadosabertos/materia/140577,2020-02-06,RQS,,00037,2020,RQS 37/2020,Sim
+140578,http://legis.senado.gov.br/dadosabertos/materia/140578,2020-02-06,RQS,,00038,2020,RQS 38/2020,Sim
+140579,http://legis.senado.gov.br/dadosabertos/materia/140579,2020-02-06,RQS,,00039,2020,RQS 39/2020,Sim
+140581,http://legis.senado.gov.br/dadosabertos/materia/140581,2020-02-06,RQS,,00040,2020,RQS 40/2020,Não
+140582,http://legis.senado.gov.br/dadosabertos/materia/140582,2020-02-11,RQS,,00041,2020,RQS 41/2020,Não
+140583,http://legis.senado.gov.br/dadosabertos/materia/140583,2020-02-11,RQS,,00042,2020,RQS 42/2020,Não
+140584,http://legis.senado.gov.br/dadosabertos/materia/140584,2020-02-11,RQS,,00043,2020,RQS 43/2020,Não
+140585,http://legis.senado.gov.br/dadosabertos/materia/140585,2020-02-10,RQS,,00044,2020,RQS 44/2020,Não
+140591,http://legis.senado.gov.br/dadosabertos/materia/140591,2020-02-10,RQS,,00045,2020,RQS 45/2020,Sim
+140598,http://legis.senado.gov.br/dadosabertos/materia/140598,2020-02-18,RQS,,00046,2020,RQS 46/2020,Não
+140600,http://legis.senado.gov.br/dadosabertos/materia/140600,2020-02-11,RQS,,00047,2020,RQS 47/2020,Não
+140632,http://legis.senado.gov.br/dadosabertos/materia/140632,2020-02-11,RQS,,00048,2020,RQS 48/2020,Não
+140633,http://legis.senado.gov.br/dadosabertos/materia/140633,2020-02-11,RQS,,00049,2020,RQS 49/2020,Sim
+140643,http://legis.senado.gov.br/dadosabertos/materia/140643,2020-02-13,RQS,,00050,2020,RQS 50/2020,Não
+140646,http://legis.senado.gov.br/dadosabertos/materia/140646,2020-02-13,RQS,,00051,2020,RQS 51/2020,Não
+140648,http://legis.senado.gov.br/dadosabertos/materia/140648,2020-02-13,RQS,,00052,2020,RQS 52/2020,Sim
+140659,http://legis.senado.gov.br/dadosabertos/materia/140659,2020-02-18,RQS,,00053,2020,RQS 53/2020,Sim
+140660,http://legis.senado.gov.br/dadosabertos/materia/140660,2020-02-12,RQS,,00054,2020,RQS 54/2020,Sim
+140672,http://legis.senado.gov.br/dadosabertos/materia/140672,2020-02-18,RQS,,00055,2020,RQS 55/2020,Sim
+140673,http://legis.senado.gov.br/dadosabertos/materia/140673,2020-02-13,RQS,,00056,2020,RQS 56/2020,Sim
+140674,http://legis.senado.gov.br/dadosabertos/materia/140674,2020-02-13,RQS,,00057,2020,RQS 57/2020,Sim
+140677,http://legis.senado.gov.br/dadosabertos/materia/140677,2020-03-04,RQS,,00058,2020,RQS 58/2020,Não
+140678,http://legis.senado.gov.br/dadosabertos/materia/140678,2020-02-18,RQS,,00059,2020,RQS 59/2020,Não
+140679,http://legis.senado.gov.br/dadosabertos/materia/140679,2020-02-13,RQS,,00060,2020,RQS 60/2020,Sim
+140681,http://legis.senado.gov.br/dadosabertos/materia/140681,2020-02-17,RQS,,00061,2020,RQS 61/2020,Sim
+140683,http://legis.senado.gov.br/dadosabertos/materia/140683,2020-02-17,RQS,,00062,2020,RQS 62/2020,Sim
+140686,http://legis.senado.gov.br/dadosabertos/materia/140686,2020-02-18,RQS,,00063,2020,RQS 63/2020,Não
+140696,http://legis.senado.gov.br/dadosabertos/materia/140696,2020-02-13,RQS,,00064,2020,RQS 64/2020,Sim
+140698,http://legis.senado.gov.br/dadosabertos/materia/140698,2020-02-14,RQS,,00065,2020,RQS 65/2020,Não
+140718,http://legis.senado.gov.br/dadosabertos/materia/140718,2020-02-17,RQS,,00066,2020,RQS 66/2020,Sim
+140730,http://legis.senado.gov.br/dadosabertos/materia/140730,2020-02-18,RQS,,00067,2020,RQS 67/2020,Não
+140731,http://legis.senado.gov.br/dadosabertos/materia/140731,2020-02-18,RQS,,00068,2020,RQS 68/2020,Não
+140732,http://legis.senado.gov.br/dadosabertos/materia/140732,2020-02-18,RQS,,00069,2020,RQS 69/2020,Sim
+140733,http://legis.senado.gov.br/dadosabertos/materia/140733,2020-02-18,RQS,,00070,2020,RQS 70/2020,Sim
+140743,http://legis.senado.gov.br/dadosabertos/materia/140743,2020-02-18,RQS,,00071,2020,RQS 71/2020,Sim
+140748,http://legis.senado.gov.br/dadosabertos/materia/140748,2020-02-18,RQS,,00072,2020,RQS 72/2020,Sim
+140749,http://legis.senado.gov.br/dadosabertos/materia/140749,2020-02-18,RQS,,00073,2020,RQS 73/2020,Sim
+140750,http://legis.senado.gov.br/dadosabertos/materia/140750,2020-02-18,RQS,,00074,2020,RQS 74/2020,Não
+140753,http://legis.senado.gov.br/dadosabertos/materia/140753,2020-02-18,RQS,,00075,2020,RQS 75/2020,Sim
+140762,http://legis.senado.gov.br/dadosabertos/materia/140762,2020-02-19,RQS,,00076,2020,RQS 76/2020,Sim
+140764,http://legis.senado.gov.br/dadosabertos/materia/140764,2020-02-19,RQS,,00077,2020,RQS 77/2020,Não
+140765,http://legis.senado.gov.br/dadosabertos/materia/140765,2020-03-04,RQS,,00078,2020,RQS 78/2020,Não
+140766,http://legis.senado.gov.br/dadosabertos/materia/140766,2020-02-19,RQS,,00079,2020,RQS 79/2020,Sim
+140770,http://legis.senado.gov.br/dadosabertos/materia/140770,2020-02-19,RQS,,00080,2020,RQS 80/2020,Sim
+140784,http://legis.senado.gov.br/dadosabertos/materia/140784,2020-02-19,RQS,,00081,2020,RQS 81/2020,Não
+140785,http://legis.senado.gov.br/dadosabertos/materia/140785,2020-02-19,RQS,,00082,2020,RQS 82/2020,Não
+140792,http://legis.senado.gov.br/dadosabertos/materia/140792,2020-02-19,RQS,,00083,2020,RQS 83/2020,Sim
+140794,http://legis.senado.gov.br/dadosabertos/materia/140794,2020-02-19,RQS,,00084,2020,RQS 84/2020,Sim
+140798,http://legis.senado.gov.br/dadosabertos/materia/140798,2020-03-04,RQS,,00085,2020,RQS 85/2020,Sim
+140800,http://legis.senado.gov.br/dadosabertos/materia/140800,2020-03-04,RQS,,00086,2020,RQS 86/2020,Sim
+140801,http://legis.senado.gov.br/dadosabertos/materia/140801,2020-03-04,RQS,,00087,2020,RQS 87/2020,Sim
+140807,http://legis.senado.gov.br/dadosabertos/materia/140807,2020-03-04,RQS,,00088,2020,RQS 88/2020,Não
+140811,http://legis.senado.gov.br/dadosabertos/materia/140811,2020-03-04,RQS,,00089,2020,RQS 89/2020,Sim
+140842,http://legis.senado.gov.br/dadosabertos/materia/140842,2020-03-04,RQS,,00090,2020,RQS 90/2020,Sim
+140846,http://legis.senado.gov.br/dadosabertos/materia/140846,2020-03-12,RQS,,00091,2020,RQS 91/2020,Sim
+140851,http://legis.senado.gov.br/dadosabertos/materia/140851,2020-03-04,RQS,,00092,2020,RQS 92/2020,Sim
+140864,http://legis.senado.gov.br/dadosabertos/materia/140864,2020-03-03,RQS,,00093,2020,RQS 93/2020,Sim
+140872,http://legis.senado.gov.br/dadosabertos/materia/140872,2020-03-04,RQS,,00094,2020,RQS 94/2020,Não
+140873,http://legis.senado.gov.br/dadosabertos/materia/140873,2020-03-04,RQS,,00095,2020,RQS 95/2020,Não
+140875,http://legis.senado.gov.br/dadosabertos/materia/140875,2020-03-03,RQS,,00096,2020,RQS 96/2020,Sim
+140876,http://legis.senado.gov.br/dadosabertos/materia/140876,2020-03-04,RQS,,00097,2020,RQS 97/2020,Não
+140877,http://legis.senado.gov.br/dadosabertos/materia/140877,2020-03-04,RQS,,00098,2020,RQS 98/2020,Não
+140888,http://legis.senado.gov.br/dadosabertos/materia/140888,2020-03-04,RQS,,00099,2020,RQS 99/2020,Sim
+140889,http://legis.senado.gov.br/dadosabertos/materia/140889,2020-03-04,RQS,,00100,2020,RQS 100/2020,Não
+140890,http://legis.senado.gov.br/dadosabertos/materia/140890,2020-03-04,RQS,,00101,2020,RQS 101/2020,Não
+140892,http://legis.senado.gov.br/dadosabertos/materia/140892,2020-03-04,RQS,,00102,2020,RQS 102/2020,Não
+140897,http://legis.senado.gov.br/dadosabertos/materia/140897,2020-03-04,RQS,,00103,2020,RQS 103/2020,Sim
+140903,http://legis.senado.gov.br/dadosabertos/materia/140903,2020-03-04,RQS,,00104,2020,RQS 104/2020,Não
+140905,http://legis.senado.gov.br/dadosabertos/materia/140905,2020-03-04,RQS,,00105,2020,RQS 105/2020,Não
+140906,http://legis.senado.gov.br/dadosabertos/materia/140906,2020-03-04,RQS,,00106,2020,RQS 106/2020,Não
+140907,http://legis.senado.gov.br/dadosabertos/materia/140907,2020-03-04,RQS,,00107,2020,RQS 107/2020,Não
+140908,http://legis.senado.gov.br/dadosabertos/materia/140908,2020-03-04,RQS,,00108,2020,RQS 108/2020,Não
+140909,http://legis.senado.gov.br/dadosabertos/materia/140909,2020-03-04,RQS,,00109,2020,RQS 109/2020,Não
+140910,http://legis.senado.gov.br/dadosabertos/materia/140910,2020-03-04,RQS,,00110,2020,RQS 110/2020,Sim
+140911,http://legis.senado.gov.br/dadosabertos/materia/140911,2020-03-20,RQS,,00111,2020,RQS 111/2020,Não
+140912,http://legis.senado.gov.br/dadosabertos/materia/140912,2020-03-05,RQS,,00112,2020,RQS 112/2020,Sim
+140929,http://legis.senado.gov.br/dadosabertos/materia/140929,2020-03-04,RQS,,00113,2020,RQS 113/2020,Não
+140935,http://legis.senado.gov.br/dadosabertos/materia/140935,2020-03-05,RQS,,00114,2020,RQS 114/2020,Sim
+140936,http://legis.senado.gov.br/dadosabertos/materia/140936,2020-03-05,RQS,,00115,2020,RQS 115/2020,Sim
+140952,http://legis.senado.gov.br/dadosabertos/materia/140952,2020-03-04,RQS,,00116,2020,RQS 116/2020,Sim
+140964,http://legis.senado.gov.br/dadosabertos/materia/140964,2020-03-09,RQS,,00117,2020,RQS 117/2020,Não
+140965,http://legis.senado.gov.br/dadosabertos/materia/140965,2020-03-06,RQS,,00118,2020,RQS 118/2020,Sim
+140966,http://legis.senado.gov.br/dadosabertos/materia/140966,2020-03-06,RQS,,00119,2020,RQS 119/2020,Sim
+140974,http://legis.senado.gov.br/dadosabertos/materia/140974,2020-03-09,RQS,,00120,2020,RQS 120/2020,Sim
+140976,http://legis.senado.gov.br/dadosabertos/materia/140976,2020-03-09,RQS,,00121,2020,RQS 121/2020,Sim
+140993,http://legis.senado.gov.br/dadosabertos/materia/140993,2020-03-09,RQS,,00122,2020,RQS 122/2020,Sim
+140994,http://legis.senado.gov.br/dadosabertos/materia/140994,2020-03-09,RQS,,00123,2020,RQS 123/2020,Sim
+141008,http://legis.senado.gov.br/dadosabertos/materia/141008,2020-03-20,RQS,,00124,2020,RQS 124/2020,Não
+141023,http://legis.senado.gov.br/dadosabertos/materia/141023,2020-03-20,RQS,,00125,2020,RQS 125/2020,Sim
+141024,http://legis.senado.gov.br/dadosabertos/materia/141024,2020-03-10,RQS,,00126,2020,RQS 126/2020,Sim
+141028,http://legis.senado.gov.br/dadosabertos/materia/141028,2020-03-12,RQS,,00127,2020,RQS 127/2020,Sim
+141029,http://legis.senado.gov.br/dadosabertos/materia/141029,2020-03-12,RQS,,00128,2020,RQS 128/2020,Sim
+141058,http://legis.senado.gov.br/dadosabertos/materia/141058,2020-03-11,RQS,,00129,2020,RQS 129/2020,Sim
+141068,http://legis.senado.gov.br/dadosabertos/materia/141068,2020-03-12,RQS,,00130,2020,RQS 130/2020,Sim
+141070,http://legis.senado.gov.br/dadosabertos/materia/141070,2020-03-11,RQS,,00131,2020,RQS 131/2020,Sim
+141075,http://legis.senado.gov.br/dadosabertos/materia/141075,2020-03-12,RQS,,00132,2020,RQS 132/2020,Sim
+141106,http://legis.senado.gov.br/dadosabertos/materia/141106,2020-03-17,RQS,,00133,2020,RQS 133/2020,Sim
+141107,http://legis.senado.gov.br/dadosabertos/materia/141107,2020-03-18,RQS,,00134,2020,RQS 134/2020,Sim
+141113,http://legis.senado.gov.br/dadosabertos/materia/141113,2020-03-20,RQS,,00135,2020,RQS 135/2020,Sim
+141115,http://legis.senado.gov.br/dadosabertos/materia/141115,2020-03-20,RQS,,00136,2020,RQS 136/2020,Sim
+141116,http://legis.senado.gov.br/dadosabertos/materia/141116,2020-03-20,RQS,,00137,2020,RQS 137/2020,Sim
+141151,http://legis.senado.gov.br/dadosabertos/materia/141151,2020-03-24,RQS,,00138,2020,RQS 138/2020,Não
+141152,http://legis.senado.gov.br/dadosabertos/materia/141152,2020-03-24,RQS,,00139,2020,RQS 139/2020,Não
+141153,http://legis.senado.gov.br/dadosabertos/materia/141153,2020-03-24,RQS,,00140,2020,RQS 140/2020,Não
+141160,http://legis.senado.gov.br/dadosabertos/materia/141160,2020-03-24,RQS,,00141,2020,RQS 141/2020,Sim
+141161,http://legis.senado.gov.br/dadosabertos/materia/141161,2020-03-24,RQS,,00142,2020,RQS 142/2020,Não
+141162,http://legis.senado.gov.br/dadosabertos/materia/141162,2020-03-24,RQS,,00143,2020,RQS 143/2020,Não
+141163,http://legis.senado.gov.br/dadosabertos/materia/141163,2020-03-24,RQS,,00144,2020,RQS 144/2020,Não
+141164,http://legis.senado.gov.br/dadosabertos/materia/141164,2020-03-24,RQS,,00145,2020,RQS 145/2020,Não
+141191,http://legis.senado.gov.br/dadosabertos/materia/141191,2020-03-25,RQS,,00146,2020,RQS 146/2020,Sim
+141211,http://legis.senado.gov.br/dadosabertos/materia/141211,2020-03-26,RQS,,00147,2020,RQS 147/2020,Não
+141215,http://legis.senado.gov.br/dadosabertos/materia/141215,2020-03-26,RQS,,00148,2020,RQS 148/2020,Sim
+141218,http://legis.senado.gov.br/dadosabertos/materia/141218,2020-03-26,RQS,,00149,2020,RQS 149/2020,Sim
+141284,http://legis.senado.gov.br/dadosabertos/materia/141284,2020-03-30,RQS,,00150,2020,RQS 150/2020,Sim
+141285,http://legis.senado.gov.br/dadosabertos/materia/141285,2020-03-30,RQS,,00151,2020,RQS 151/2020,Sim
+141286,http://legis.senado.gov.br/dadosabertos/materia/141286,2020-03-30,RQS,,00152,2020,RQS 152/2020,Sim
+141287,http://legis.senado.gov.br/dadosabertos/materia/141287,2020-03-30,RQS,,00153,2020,RQS 153/2020,Sim
+141289,http://legis.senado.gov.br/dadosabertos/materia/141289,2020-03-30,RQS,,00154,2020,RQS 154/2020,Sim
+141290,http://legis.senado.gov.br/dadosabertos/materia/141290,2020-03-30,RQS,,00155,2020,RQS 155/2020,Sim
+141310,http://legis.senado.gov.br/dadosabertos/materia/141310,2020-03-31,RQS,,00156,2020,RQS 156/2020,Sim
+141313,http://legis.senado.gov.br/dadosabertos/materia/141313,2020-03-31,RQS,,00157,2020,RQS 157/2020,Sim
+141314,http://legis.senado.gov.br/dadosabertos/materia/141314,2020-03-31,RQS,,00158,2020,RQS 158/2020,Sim
+141316,http://legis.senado.gov.br/dadosabertos/materia/141316,2020-03-31,RQS,,00159,2020,RQS 159/2020,Sim
+140569,http://legis.senado.gov.br/dadosabertos/materia/140569,2020-02-06,SUG,,00001,2020,SUG 1/2020,Sim
+140570,http://legis.senado.gov.br/dadosabertos/materia/140570,2020-02-06,SUG,,00002,2020,SUG 2/2020,Sim
+140852,http://legis.senado.gov.br/dadosabertos/materia/140852,2020-03-03,SUG,,00003,2020,SUG 3/2020,Sim
+140399,http://legis.senado.gov.br/dadosabertos/materia/140399,2020-01-08,VET,,00001,2020,VET 1/2020,Sim
+140400,http://legis.senado.gov.br/dadosabertos/materia/140400,2020-01-09,VET,,00002,2020,VET 2/2020,Sim
