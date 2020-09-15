@@ -59,10 +59,10 @@ hex_points <- left_join(hex_points, gen_data, by = c("x" = "...1", "y" = "...2")
 theme_hex <- theme_void() + theme_transparent() +
   theme(axis.ticks.length = unit(0, "mm"))
 
-img <- readPNG("~/SenadoBR/inst/doc/Senado.png")
+img <- readPNG("~/SenadoBR/inst/figures/Senado.png")
 g <- rasterGrob(img, interpolate=TRUE)
 
-flag <- readPNG("~/SenadoBR/inst/doc/bandeira.png")
+flag <- readPNG("~/SenadoBR/inst/figures/bandeira.png")
 b <- rasterGrob(flag, interpolate=TRUE)
 
 plot_sample <- hex_points %>%
@@ -85,7 +85,7 @@ ggplot() +
   theme_hex -> logo
 
 
-png("~/SenadoBR/inst/doc/SenadoBR-logo.png", width = 905, height = 1050, bg = "transparent")
+png("~/SenadoBR/inst/figures/SenadoBR-logo.png", width = 905, height = 1050, bg = "transparent")
 print(logo)
 dev.off()
 
@@ -105,7 +105,7 @@ ggplot() +
   scale_fill_gradient(low = low_color, high = high_color) +
   theme_hex ->  icon
 
-png("~/SenadoBR/inst/doc/SenadoBR-icon.png", width = 32, height = 32, bg = "transparent")
+png("~/SenadoBR/inst/figures/SenadoBR-icon.png", width = 32, height = 32, bg = "transparent")
 print(icon)
 dev.off()
 
@@ -125,6 +125,6 @@ ggplot() +
   scale_fill_gradient(low = low_color, high = high_color) +
   theme_hex -> icon_192
 
-png("~/SenadoBR/inst/doc/SenadoBR-icon-192.png", width = 192, height = 192, bg = "transparent")
+png("~/SenadoBR/inst/figures/SenadoBR-icon-192.png", width = 192, height = 192, bg = "transparent")
 print(icon_192)
 dev.off()
