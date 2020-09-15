@@ -11,7 +11,6 @@
 #' @import methods
 #' @import stats
 #' @import utils
-#' @import magrittr
 NULL
 
 # devtools::document()
