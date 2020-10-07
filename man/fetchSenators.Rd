@@ -8,6 +8,8 @@ fetchSenators(what = "atual", query = NULL)
 }
 \arguments{
 \item{what}{a string, if "atual" only the active senators are returned.}
+
+\item{query}{a string for querying data on API, ex:}
 }
 \value{
 a data.frame

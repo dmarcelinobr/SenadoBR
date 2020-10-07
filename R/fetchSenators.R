@@ -1,7 +1,7 @@
 #' Fetch a list of actual senators
 #' 
 #' @param what a string, if "atual" only the active senators are returned.
-#' @query a string for querying data on API, ex: 
+#' @param query a string for querying data on API, ex: 
 #' 
 #' @return a data.frame 
 #' @importFrom dplyr %>%
@@ -26,6 +26,7 @@ fetchSenators <- function(what = "atual", query = NULL){
   path = paste0("dadosabertos/senador/lista/",what)
   query = query
   
+  
   if(url_exists(httr::modify_url(url = url, path = path, query = query))==TRUE){
     resp = httr::modify_url(url = url, path = path, query = query)
     
@@ -33,7 +34,6 @@ fetchSenators <- function(what = "atual", query = NULL){
     
     CodigoParlamentar = raw_xml %>% xml2::xml_find_all("//Parlamentares/Parlamentar/IdentificacaoParlamentar/CodigoParlamentar") %>% xml2::xml_text();
     
-    CodigoPublicoNaLegAtual = raw_xml %>% xml2::xml_find_all("//Parlamentares/Parlamentar/IdentificacaoParlamentar/CodigoPublicoNaLegAtual") %>% xml2::xml_text();
     
     NomeParlamentar = raw_xml %>% xml2::xml_find_all("//Parlamentares/Parlamentar/IdentificacaoParlamentar/NomeParlamentar") %>% xml2::xml_text();
     
@@ -60,17 +60,13 @@ fetchSenators <- function(what = "atual", query = NULL){
     MembroLideranca = raw_xml %>% xml2::xml_find_all("//Parlamentares/Parlamentar/IdentificacaoParlamentar/MembroLideranca") %>% xml2::xml_text();
     
     
-    data = tibble(idParlamentar = CodigoParlamentar,
-                  siglaCasa = "SF",
-                  nomeCivil = NomeCompletoParlamentar, 
-                  nomeEleitoral = NomeParlamentar,
-                  nome = NomeParlamentar,
-                  sexo = SexoParlamentar, 
-                  siglaUF = UfParlamentar, 
-                  siglaPartido = SiglaPartidoParlamentar,
-                  email = EmailParlamentar, 
-                  # telefone = NumeroTelefone,
-                  urlFoto = UrlFotoParlamentar
+    data = tibble(legislator_id = CodigoParlamentar,
+                  legislator_chamber = "SF",
+                  legislator_name = NomeParlamentar,
+                  legislator_sex = SexoParlamentar, 
+                  legislator_state = UfParlamentar, 
+                  legislator_party = SiglaPartidoParlamentar,
+                  legislator_img = UrlFotoParlamentar
     )
     
   } else{
