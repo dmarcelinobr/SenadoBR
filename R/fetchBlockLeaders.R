@@ -12,7 +12,7 @@
 #' \dontrun{
 #' fetchGovBlocLeader(bloc="Governo")
 #' 
-#'  fetchGovBlocLeader(bloc="Maioria")
+#' fetchGovBlocLeader(bloc="Maioria")
 #' 
 #' fetchGovBlocLeader(bloc="Minoria")
 #' 
@@ -34,7 +34,6 @@ SiglaUnidLideranca = xml_find_first(x, "./SiglaUnidLideranca") %>% xml_text(),
 CodigoParlamentar = xml_find_first(x, ".//CodigoParlamentar") %>% xml_text(),
 NomeParlamentar = xml_find_first(x, ".//NomeParlamentar") %>% xml_text()
       )
-      
 })
   
   if(!is.null(bloc)){

@@ -31,14 +31,41 @@ To get the current development version from Github:
 if (!requireNamespace("devtools", quietly = TRUE)) {
   install.packages("devtools")
 }
-## install dev version of SeanadoBR from github
-devtools::install_github("danielmarcelino/SeanadoBR")
-## load SenadoBR package
-library(SeanadoBR)
+## install dev version of SenadoBR from github
+devtools::install_github("danielmarcelino/SenadoBR")
 ```
 
+
 ## Usage
+### Get the actual list of senators
 
-```{r, eval=FALSE}
+```{r}
 
+## load SenadoBR package
+library(SenadoBR)
+
+sents = fetchSenators()
+
+print(sents)
+```
+
+
+
+### Fetch bloc leaders
+```{r}
+
+
+fetchGovBlocLeader(bloc="Governo")
+ 
+
+fetchGovBlocLeader(bloc="Maioria")
+
+ 
+fetchGovBlocLeader(bloc="Minoria")
+ 
+
+fetchGovBlocLeader(bloc="Bloco")
+
+
+fetchGovBlocLeader(bloc="PODE")
 ```
