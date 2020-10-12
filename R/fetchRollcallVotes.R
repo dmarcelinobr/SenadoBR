@@ -4,15 +4,18 @@
 #' @param bill_id Id da proposição
 #' @param year Ano que filtra as proposições. Caso seja null, todas as votações serão retornadas
 #' @return Votações de uma proposição em um ano ou todos, caso nenhum ano seja passado como parâmetro
-#' @examples
+#' @importFrom xml2 xml_find_all read_xml xml_find_first xml_text
+#' @importFrom RCurl getURI
+#' @importFrom dplyr select mutate
+#' @importFrom tibble tribble
+#' @examples 
 #' \dontrun{
-#' votacoes <- fetchRollcallVotes(bill_id = 135251)
+#' fetchRollcallVotes(bill_id = 135251)
 #' }
 #' @export
 fetchRollcallVotes <- function(bill_id, year = NULL) {
     Sys.sleep(.25)
     suppressPackageStartupMessages(library(httr))
-    suppressPackageStartupMessages(library(XML))
     suppressPackageStartupMessages(library(tidyverse))
     suppressPackageStartupMessages(library(RCurl))  
     suppressPackageStartupMessages(library(xml2))
@@ -32,10 +35,10 @@ fetchRollcallVotes <- function(bill_id, year = NULL) {
         xml2::xml_find_all(".//Materia/Votacoes/Votacao") %>%
         purrr::map_df(function(x) {
           list(
-            codigo_sessao =
+            session_id =
               xml2::xml_find_first(x, "./SessaoPlenaria/CodigoSessao") %>%
               xml2::xml_text(),
-            objeto_votacao =
+            rollcall_info =
               xml2::xml_find_first(x, "./DescricaoVotacao") %>%
               xml2::xml_text(),
             data =
@@ -53,9 +56,9 @@ fetchRollcallVotes <- function(bill_id, year = NULL) {
                  as.POSIXct(),
                  bill_id = bill_id) %>%
         dplyr::select(bill_id,
-               objeto_votacao,
+                      rollcall_info,
                datetime,
-               codigo_sessao)
+               session_id)
       
     #  if (!is.null(year)) {
     #    data <- data %>%
@@ -64,9 +67,9 @@ fetchRollcallVotes <- function(bill_id, year = NULL) {
     #  }
     }, error = function(e) {
       return(tibble::tribble( ~ bill_id,
-                      ~ objeto_votacao,
+                      ~ rollcall_info,
                       ~ datetime,
-                      ~ codigo_sessao))
+                      ~ session_id))
 })
     return(votacoes)
 }

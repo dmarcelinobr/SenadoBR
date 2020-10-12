@@ -16,7 +16,7 @@ Fetch the government's lider ID in the Senate
 \dontrun{
 fetchGovBlocLeader(bloc="Governo")
 
- fetchGovBlocLeader(bloc="Maioria")
+fetchGovBlocLeader(bloc="Maioria")
 
 fetchGovBlocLeader(bloc="Minoria")
 

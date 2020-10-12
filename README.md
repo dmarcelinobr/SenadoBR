@@ -55,7 +55,7 @@ Usage
     #> # … with 71 more rows, and 3 more variables: legislator_state <chr>,
     #> #   legislator_party <chr>, legislator_img <chr>
 
-### Fetch bloc leaders
+### Get bloc leaders
 
 
 
@@ -96,3 +96,14 @@ Usage
     #>   SiglaUnidLideranca CodigoParlamentar NomeParlamentar
     #>   <chr>              <chr>             <chr>          
     #> 1 PODEMOS            945               Alvaro Dias
+
+### Get the list of rollcall votes
+
+### Retrieve detailed information of a bill rollcall session
+
+
+    fetchRollcallVotes(bill_id = 135251)
+    #> # A tibble: 1 x 4
+    #>   bill_id rollcall_info                           datetime            session_id
+    #>     <dbl> <chr>                                   <dttm>              <chr>     
+    #> 1  135251 "Submete à apreciação do Senado Federa… 2019-02-26 14:00:00 86315

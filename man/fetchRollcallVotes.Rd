@@ -20,6 +20,6 @@ votações nominais de plenário que aconteceram na Senado Federal
 }
 \examples{
 \dontrun{
-votacoes <- fetchRollcallVotes(bill_id = 135251)
+fetchRollcallVotes(bill_id = 135251)
 }
 }

@@ -51,7 +51,7 @@ print(sents)
 
 
 
-### Fetch bloc leaders
+### Get bloc leaders
 ```{r}
 
 
@@ -69,3 +69,21 @@ fetchGovBlocLeader(bloc="Bloco")
 
 fetchGovBlocLeader(bloc="PODE")
 ```
+
+
+
+### Get the list of rollcall votes 
+```{r}
+
+
+```
+
+
+
+### Retrieve detailed information of a bill rollcall session  
+```{r}
+
+fetchRollcallVotes(bill_id = 135251)
+
+```
+
