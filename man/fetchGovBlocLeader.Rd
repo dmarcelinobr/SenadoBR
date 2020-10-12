@@ -4,14 +4,23 @@
 \alias{fetchGovBlocLeader}
 \title{Fetch the government's lider ID in the Senate}
 \usage{
-fetchGovBlocLeader()
+fetchGovBlocLeader(bloc = "Governo")
+}
+\arguments{
+\item{The}{bloc string}
 }
 \description{
 Fetch the government's lider ID in the Senate
 }
 \examples{
 \dontrun{
-lider = fetchGovBlocLeader()
+fetchGovBlocLeader(bloc="Governo")
+
+ fetchGovBlocLeader(bloc="Maioria")
+
+fetchGovBlocLeader(bloc="Minoria")
+
+fetchGovBlocLeader(bloc="Bloco")
 }
 
 }
