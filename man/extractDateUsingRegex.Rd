@@ -19,6 +19,6 @@ A partir de um nó xml_nodeset, extrai o texto da tag e recupera uma data no for
 }
 \examples{
 \dontrun{
-extractDateUsingRegex(x, "caption")
+extractDateUsingRegex(x, tag = "caption")
 }
 }

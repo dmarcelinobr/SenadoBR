@@ -75,6 +75,7 @@ fetchGovBlocLeader(bloc="PODE")
 ### Get the list of rollcall votes 
 ```{r}
 
+fetchRollcallVotesByInterval(initial_date = "01/02/2019")
 
 ```
 
