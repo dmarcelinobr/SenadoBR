@@ -96,8 +96,10 @@ fetchRollcallVotes(bill_id = 135251)
 infos <- fetchRollcallVotesByInterval(initial_date = "01/09/2020")
 
 
-fetchRollcallVotesTable(infos)
+rollcalls = extractRollcallVotes(infos)
 
+
+print(rollcalls)
 ```
 
 

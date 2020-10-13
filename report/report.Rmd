@@ -1,0 +1,218 @@
+---
+title: "Relatório: o voto dos senadores"
+author: "Daniel Marcelino | Jota"
+date: "`r format(Sys.time(), '%a %b %d %X %Y')`"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: textmate
+    self_contained: true
+    number_sections: false
+    math: katex
+---
+
+```{r setup, include = FALSE, message = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  message = FALSE,
+  warning = FALSE,
+  comment = "",
+  echo = FALSE,
+  cache = FALSE,
+  fig.align = "center",
+  fig_width = 6.75,
+  fig_height = 5.5,
+  fig.retina = 2,
+  out.width = "90%"
+)
+```
+
+
+
+
+
+# Dados
+```{r, include=FALSE}
+library(tidyverse)
+library(data.table)
+library(DT)
+library(SenadoBR)
+library(knitr)
+options(dplyr.summarise.inform = FALSE)
+options(tibble.print_max = 100)
+```
+
+
+# Parlamentares 
+```{r}
+
+senadores = fetchSenators()
+
+
+DT::datatable(senadores, filter = 'none', rownames = FALSE, options = list(pageLength = 15, autoWidth = TRUE
+))
+
+```
+
+
+
+# Dados de votações nominais 
+```{r}
+votacoes <- fetchRollcallVotesByInterval()
+
+print(votacoes)
+
+# votacoes %>% rmarkdown::paged_table()
+# 
+
+```
+
+
+# Construtor de URLs para dowlnoads 
+```{r}
+
+votacoes <- votacoes %>% mutate(pdf_url = glue::glue("http://rl.senado.gov.br/reports/rwservlet?legis&report=/forms/parlam/vono_r01.RDF&paramform=no&p_cod_materia_i={bill_id}&p_cod_materia_f={bill_id}&p_cod_sessao_votacao_i={rollcall_id}&p_cod_sessao_votacao_f={rollcall_id}"))
+
+
+glimpse(votacoes)
+
+```
+
+
+```{r}
+ids <- votacoes %>% pull(rollcall_id)
+  
+  
+# ids <- votacoes %>% pull(url_votacao) %>% stringr::str_extract( "(?<=materia\\/).+?(?=\\/)")
+
+rollcalls <- map_df(ids, ~{
+    fetchRollcallVotes(.x)})
+
+```
+
+
+
+```{r}
+
+print(rollcalls)
+
+```
+
+
+
+```{r}
+
+urls <- votacoes %>% pull(pdf_url)
+
+# rollcalls <- tibble::tibble()
+
+# for(url in urls){
+# dat <-fetch_votos_por_link_votacao_senado(url) 
+# rollcalls <- bind_rows(rollcalls, dat)
+# }
+
+
+rollcalls <- map_df(urls, ~{
+    fetch_all_votos_senado(.x)})
+```
+
+
+
+```{r}
+data <- 
+    rollcalls %>% 
+    left_join(
+      senadores %>%
+        select(legislator_name, legislator_id), 
+      by=c("legislator_name"))
+```
+
+
+```{r}
+
+rollcalls %>%
+  dplyr::count(legislator_vote)
+
+
+base <- rollcalls %>%
+  dplyr::distinct(bill_id, rollcall_id, legislator_name, .keep_all = TRUE)
+
+
+
+base %>%
+  dplyr::filter(bill_id == 123903, rollcall_id == 5952) %>% View()
+
+
+# Limpando a base
+base <- transformVotes(data, filter = FALSE)
+
+
+base %>%
+  # filter(!is.na(Governo)) %>%
+  dplyr::distinct(rollcall_id) %>%
+  nrow()
+
+base %>%
+  filter(!is.na(Governo)) %>%
+  dplyr::distinct(rollcall_id) %>%
+  nrow()
+
+```
+
+## Governismo geral
+
+
+
+```{r}
+# base %>% group_by(legislator_party) %>% summarise(n=n()) %>% data.frame()
+
+## Governismo geral
+(governismo_geral <- base %>% 
+  # filter(decision_date < as.Date("2020-07-25")) %>%
+  dplyr::group_by(rollcall_id) %>%
+  dplyr::summarise(governismo = mean(governismo, na.rm=T),.groups = 'drop') %>%
+  dplyr::summarise(governismo = mean(governismo, na.rm=T), .groups = 'drop'))
+
+
+## Média de frequência nas votações
+base %>%
+    dplyr::group_by(rollcall_id) %>%
+    dplyr::summarise(Freq = n()) %>%
+    dplyr::summarise(Freq = mean(Freq))
+
+## Frequência nas votações 30 dias
+base %>%
+  dplyr::filter(lubridate::ymd(decision_date) >=    lubridate::today() - 30) %>%
+  dplyr::group_by(rollcall_id) %>%
+  dplyr::summarise(Freq = n()) %>%
+  dplyr::summarise(Freq = mean(Freq))
+
+
+
+# Frequência média de parlamentares com governismo acima de 80%
+governismo_legislator <- base %>%
+  dplyr::group_by(rollcall_id, legislator_id , legislator_name) %>%
+  dplyr::summarise(soma = sum(governismo, na.rm=TRUE),
+            nao = sum(abs(-1 + governismo)),
+            governismo = mean(governismo, na.rm=TRUE),
+            freq = n()) %>%
+  dplyr::group_by(legislator_id, legislator_name) %>%
+  dplyr::summarise(governismo = round(mean(governismo, na.rm=TRUE),3),
+            soma = sum(soma, na.rm=TRUE),
+            nao = sum(nao), .groups = 'drop') %>%
+           filter(!is.na(governismo))
+
+
+
+deputados_atuais = CamaraBR::listaDeputadosAtivos()
+
+
+dat = left_join(deputados_atuais, governismo_legislator %>% select(legislator_id, governismo, soma), by = "legislator_id") %>% mutate(Gov80 = ifelse(governismo > .80, 1, 0)) %>% count(Gov80) 
+
+
+
+dat$dup = duplicated(dat$legislator_id)
+
+dat %>% filter(dup==FALSE) %>% mutate(Gov80 = ifelse(governismo > .80, 1, 0)) %>% count(Gov80)
+```
+

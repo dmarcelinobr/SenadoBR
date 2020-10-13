@@ -29,5 +29,6 @@ Imports:
     RCurl (>= 1.98),
     httr (>= 1.4.1),
     rvest (>= 0.3.6),
-    magrittr (>= 1.5)
+    magrittr (>= 1.5),
+    pdftools (>= 2.3.1)
 RoxygenNote: 7.1.1
