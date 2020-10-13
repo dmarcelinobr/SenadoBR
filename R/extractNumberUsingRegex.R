@@ -3,6 +3,7 @@
 #' @param text Texto onde o regex será aplicado
 #' @param text_regex Expressão regular onde o texto será extraído para depois serem retornados apenas os números
 #' @return Números existentes em um texto extraído a partir de uma expressão regular
+#' @importFrom stringr str_extract
 #' @examples
 #' \dontrun{
 #' extractNumberUsingRegex("p_cod_materia_i=[\\d]*&")
@@ -10,9 +11,8 @@
 #' @export
 extractNumberUsingRegex <- function(text, text_regex) {
   return(stringr::str_extract(text, text_regex) %>%
-           stringr::str_extract("[0-9]+"))
+           stringr::str_extract("[\\d]+"))
 }
-
 
 
 
@@ -22,9 +22,12 @@ extractNumberUsingRegex <- function(text, text_regex) {
 #' @param x xml_nodeset contendo a tag a ser extraída
 #' @param tag tag html que possui a data
 #' @return Data extraída no formato "yyyy-mm-dd"
+#' @importFrom rvest html_nodes html_text
+#' @importFrom lubridate dmy
+#' @importFrom stringr str_extract
 #' @examples
 #' \dontrun{
-#' extractDateUsingRegex(x, "caption")
+#' extractDateUsingRegex(x, tag = "caption")
 #' }
 #' @export
 extractDateUsingRegex <- function(x, tag) {
@@ -34,3 +37,4 @@ extractDateUsingRegex <- function(x, tag) {
     lubridate::dmy() %>% 
     return()
 }
+NULL

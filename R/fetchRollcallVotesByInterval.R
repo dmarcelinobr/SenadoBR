@@ -4,6 +4,12 @@
 #' @param initial_date Data inicial do período de votações. Formato: "dd/mm/yyyy"
 #' @param end_date Data final do período de votações. Formato: "dd/mm/yyyy"
 #' @return Votações da proposição em um intervalo de tempo
+#' @importFrom dplyr mutate select
+#' @importFrom RCurl getURI
+#' @importFrom rvest html_nodes
+#' @importFrom xml2 read_html
+#' @importFrom stringr str_remove_all
+#' 
 #' @examples
 #' \dontrun{
 #' votacoes <- fetchRollcallVotesByInterval(initial_date = "01/02/2019")
@@ -12,8 +18,10 @@
 fetchRollcallVotesByInterval <-
   function(initial_date = "01/02/2019",
            end_date = format(Sys.Date(), "%d/%m/%Y")) {
-    library(tidyverse)
-    library(rvest)
+    suppressPackageStartupMessages(library(tidyverse))
+    suppressPackageStartupMessages(library(RCurl))
+    suppressPackageStartupMessages(library(xml2))
+    suppressPackageStartupMessages(library(rvest))
     
     url <-
       paste0(
@@ -24,40 +32,40 @@ fetchRollcallVotesByInterval <-
       )
     
     votacoes <- tryCatch({
-      dados <-
-        RCurl::getURI(url) %>%
+      dados1 <-
+        RCurl::getURI(url, .encoding = 'UTF-8') %>%
         xml2::read_html() %>%
-        html_nodes(".table") %>%
+        rvest::html_nodes(".table") %>%
         
         purrr::map_df(function(x) {
           rows <-
-            html_nodes(x, "tbody") %>%
-            html_nodes("tr")
+            rvest::html_nodes(x, "tbody") %>%
+            rvest::html_nodes("tr") 
           
           if (length(rows) > 0) {
-            data <-
+            dados2 <-
               purrr::map_df(rows, function(y) {
                 list(
-                  objeto_votacao = (html_nodes(y, "td")[2]) %>%
-                    html_text(),
+                  rollcall_info = (rvest::html_nodes(y, "td")[2]) %>%
+                    rvest::html_text(),
                   
                   url_votacao =
-                    (html_nodes(y, "td") %>%
-                       html_nodes("a") %>%
-                       html_attr("href")
+                    (rvest::html_nodes(y, "td") %>%
+                       rvest::html_nodes("a") %>%
+                       rvest::html_attr("href")
                     )[1],
                   
                   votacao_secreta = 
                     if_else(
                       str_detect(
-                        (html_nodes(y, "td")[1]) %>%
-                          html_text(), 
+                        (rvest::html_nodes(y, "td")[1]) %>%
+                          rvest::html_text(), 
                         "votação secreta"),
                       1, 
                       0)
                 )
               }) %>%
-              mutate(
+              dplyr::mutate(
                 url_votacao =
                   stringr::str_remove_all(url_votacao,
                                           '&p_order_by=.*'),
@@ -73,32 +81,33 @@ fetchRollcallVotesByInterval <-
                 datetime =
                   extractDateUsingRegex(x, "caption")
               ) %>% 
+              dplyr::mutate(link_pdf = paste0("https://rl.senado.gov.br/reports/rwservlet?legis&report=/forms/parlam/vono_r01.RDF&paramform=no&p_cod_materia_i=",
+                                      bill_id, "&p_cod_materia_f=", bill_id, "&p_cod_sessao_votacao_i=", rollcall_id, "&p_cod_sessao_votacao_f=", rollcall_id)
+              ) %>%
               dplyr::select(bill_id, 
                             rollcall_id, 
-                     objeto_votacao, 
+                            rollcall_info, 
                      datetime, 
                      votacao_secreta, 
-                    url_votacao); 
+                     link_pdf); 
             
-            return(data)
+            return(dados2)
           }
           
           return(tribble())
           
         })
       
-      return(dados)
+      return(dados1)
       
     }, error = function(e) {
       return(tribble( ~ bill_id,
                       ~ rollcall_id,
-                      ~ objeto_votacao,
+                      ~ rollcall_info,
                       ~ datetime,
                       ~ votacao_secreta,
-                      ~ url_votacao))
+                      ~ link_pdf))
     })
-    
     return(votacoes)
   }
 NULL
-
