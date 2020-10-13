@@ -127,6 +127,7 @@ Usage
 
 ### Retrieve rollcall votes hisotry
 
+    # get detailed information from rollcalls carried out in the period:
 
     infos <- fetchRollcallVotesByInterval(initial_date = "01/10/2020")
 
@@ -140,12 +141,15 @@ Usage
     #> 3 144655  6223        Votação do P… 2020-10-07               0 https://ww…
     #> # … with 1 more variable: link_pdf <chr>
 
+    # then we can extract votes from "Mapa de votação nominal" archives
+
     rollcalls = extractRollcallVotes(infos)
     #> [1] "Extracting details from rollcall id 6221"
     #> [1] "Extracting details from rollcall id 6222"
     #> [1] "Extracting details from rollcall id 6223"
 
 
+    # Result 
     rollcalls %>% 
       select(rollcall_id, datetime, legislator_name, legislator_party, legislator_vote)
     #> # A tibble: 243 x 5

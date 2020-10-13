@@ -92,6 +92,7 @@ fetchRollcallVotes(bill_id = 135251)
 
 ### Retrieve rollcall votes hisotry 
 ```{r}
+# get detailed information from rollcalls carried out in the period:
 
 infos <- fetchRollcallVotesByInterval(initial_date = "01/10/2020")
 
@@ -102,9 +103,12 @@ print(infos)
 
 
 ```{r}
+# then we can extract votes from "Mapa de votação nominal" archives
+
 rollcalls = extractRollcallVotes(infos)
 
 
+# Result 
 rollcalls %>% 
   select(rollcall_id, datetime, legislator_name, legislator_party, legislator_vote)
 ```
