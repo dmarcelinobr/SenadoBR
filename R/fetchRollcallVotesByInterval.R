@@ -88,7 +88,8 @@ fetchRollcallVotesByInterval <-
                             rollcall_id, 
                             rollcall_info, 
                      datetime, 
-                     votacao_secreta, 
+                     votacao_secreta,
+                     url_votacao,
                      link_pdf); 
             
             return(dados2)
@@ -106,6 +107,7 @@ fetchRollcallVotesByInterval <-
                       ~ rollcall_info,
                       ~ datetime,
                       ~ votacao_secreta,
+                      ~ url_votacao,
                       ~ link_pdf))
     })
     return(votacoes)

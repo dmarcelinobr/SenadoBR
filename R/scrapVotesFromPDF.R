@@ -30,6 +30,11 @@ scrapVotesFromPDF <- function(filepath) {
     
     if(ncol(data) > 1) {
       colnames(data) <- c('legislator_name', 'legislator_state', 'legislator_party', 'legislator_vote')
+      
+      data <- data %>% mutate(legislator_name = trimws(legislator_name, which = "both"),
+                              legislator_state =  trimws(legislator_state, which = "both"),
+                              legislator_party = trimws(legislator_party, which = "both"),
+                              legislator_vote = trimws(legislator_vote, which = "both"))
       return(data %>% 
                dplyr::slice(2:nrow(data)))
       
@@ -67,7 +72,8 @@ fetchVotesFromRollcallUrl <- function(url, keep = FALSE) {
   suppressPackageStartupMessages(library(rvest))
   suppressPackageStartupMessages(library(xml2))
   
-  print(paste0("Extracting detailed information from rollcall id ", 
+  
+  print(paste0("Extracting details from rollcall id ", 
                stringr::str_extract(url, "\\d*$")))
   
   #new_url <- 

@@ -93,13 +93,19 @@ fetchRollcallVotes(bill_id = 135251)
 ### Retrieve rollcall votes hisotry 
 ```{r}
 
-infos <- fetchRollcallVotesByInterval(initial_date = "01/09/2020")
+infos <- fetchRollcallVotesByInterval(initial_date = "01/10/2020")
 
 
+print(infos)
+```
+
+
+
+```{r}
 rollcalls = extractRollcallVotes(infos)
 
 
-print(rollcalls)
+rollcalls %>% 
+  select(rollcall_id, datetime, legislator_name, legislator_party, legislator_vote)
 ```
-
 
