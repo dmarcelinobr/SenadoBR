@@ -10,13 +10,13 @@
 voteStringToInteger <- function(df) {
   df %>%
     mutate(
-      voto = case_when(
-        str_detect(voto, "Não") ~ -1,
-        str_detect(voto, "Sim") ~ 1,
-        str_detect(voto, "Obstrução|P-OD") ~ 2,
-        str_detect(voto, "Abstenção") ~ 3,
-        str_detect(voto, "Art. 17|art. 51 RISF|Art.17") ~ 4,
-        str_detect(voto, "Liberado") ~ 5,
+      legislator_vote = case_when(
+        str_detect(legislator_vote, "Não") ~ -1,
+        str_detect(legislator_vote, "Sim") ~ 1,
+        str_detect(legislator_vote, "Obstrução|P-OD") ~ 2,
+        str_detect(legislator_vote, "Abstenção") ~ 3,
+        str_detect(legislator_vote, "Art. 17|art. 51 RISF|Art.17") ~ 4,
+        str_detect(legislator_vote, "Liberado") ~ 5,
         #TODO: Tratar caso P-NRV: Presente mas não registrou foto
         TRUE ~ 0
       )
@@ -31,23 +31,23 @@ NULL
 
 #' @title Recupera descrição do voto a partir do código numérico do voto
 #' @description Recebe um valor numérico que representa o código do voto e retorna a descrição do mesmo
-#' @param voto Voto para descrição
+#' @param vote Voto para descrição
 #' @return Descrição do voto apssado como parâmetro
 #' @examples
 #' \dontrun{
 #' voteIntegerToString(2)
 #' }
 #' @export
-voteIntegerToString <- function(voto) {
-  voto_descricao <- case_when(
-    voto == -1 ~ "Não",
-    voto == 1 ~ "Sim",
-    voto == 2 ~ "Obstrução",
-    voto == 3 ~ "Abstenção",
-    voto == 4 ~ "Art. 17",
-    voto == 5 ~ "Liberado",
+voteIntegerToString <- function(legislator_vote) {
+  vote_string <- case_when(
+    legislator_vote == -1 ~ "Não",
+    legislator_vote == 1 ~ "Sim",
+    legislator_vote == 2 ~ "Obstrução",
+    legislator_vote == 3 ~ "Abstenção",
+    legislator_vote == 4 ~ "Art. 17",
+    legislator_vote == 5 ~ "Liberado",
     TRUE ~ "Não votou")
   
-  return(voto_descricao)
+  return(vote_string)
 }
 NULL

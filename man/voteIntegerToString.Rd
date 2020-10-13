@@ -4,10 +4,10 @@
 \alias{voteIntegerToString}
 \title{Recupera descrição do voto a partir do código numérico do voto}
 \usage{
-voteIntegerToString(voto)
+voteIntegerToString(legislator_vote)
 }
 \arguments{
-\item{voto}{Voto para descrição}
+\item{vote}{Voto para descrição}
 }
 \value{
 Descrição do voto apssado como parâmetro
